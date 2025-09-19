@@ -1,32 +1,17 @@
 # 📊 Data Analytics Portfolio – Julie Lorenzen
-Portfolio of SQL and Power BI projects, featuring data analysis, dashboards, and business insights.
+Portfolio of Power BI and SQL projects, featuring data analysis, dashboards, and business insights.
 
 Welcome to my data analytics portfolio!  
-Here I showcase hands-on projects using **SQL, Power BI, and Excel** to solve business problems and deliver insights.  
+Here I showcase hands-on projects using **Power BI, SQL and Excel** to solve business problems and deliver insights.  
 
+## 🔹 About Me
 I have a background in **accounting and finance**, with many years of experience using Excel.  
 Now, I’m expanding into **SQL and Power BI** to build stronger data analysis, reporting, and visualization skills.  
 
 This portfolio showcases SQL and Power BI projects demonstrating business analysis, data modeling, and visualization skills.
 
----
-
-## 🔹 About Me
-I have a background in accounting and finance, with extensive Excel experience.  
-I am building proficiency in SQL Server and Power BI to analyze data and deliver actionable insights.
-
----
 
 ## 📁 Projects
-
-### **AdventureWorks Projects**
-
-
-
-
-
-
-
 
 
 ### **Power BI Projects**
@@ -51,3 +36,7 @@ I am building proficiency in SQL Server and Power BI to analyze data and deliver
 - [`PBIX`](./PowerBI_UdemyCourse/MavenToyEmporium_Dashboard.pbix)  
 **Preview:**  
 ![Maven Toy Emporium Dashboard](./PowerBI_UdemyCourse/images/MavenToyEmporium_screenshot.png)
+
+
+### **AdventureWorks Projects**
+
