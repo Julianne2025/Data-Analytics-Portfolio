@@ -38,5 +38,13 @@ This portfolio showcases SQL and Power BI projects demonstrating business analys
 ![Maven Toy Emporium Dashboard](./PowerBI_UdemyCourse/images/MavenToyEmporium_screenshot.png)
 
 
-### **SQL Server AdventureWorks Projects**
+### **SQL Server Projects**
+
+### **Excel Projects**
+
+### **Lean Six Sigma Projects**
+
+### **Project Management**
+
+
 
