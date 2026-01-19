@@ -42,9 +42,9 @@ This portfolio showcases SQL and Power BI projects demonstrating business analys
 
 ### **Excel Projects**
 
-### **Lean Six Sigma Projects**
 
-### **Project Management**
+
+
 
 
 
