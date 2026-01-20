@@ -17,7 +17,7 @@ This portfolio showcases SQL and Power BI projects demonstrating business analys
 ### **Power BI Projects**
 
 
-#### 🚴 Maven Cycles Sales Dashboard
+#### 🚴 Maven Cycles
 **Description:** Analyzed sales data for a fictional bicycle company; demonstrates course-learned skills in Power BI.  
 **Business Questions:** Top products, monthly/yearly trends, top-performing regions  
 **Skills:** Power Query, DAX, interactive dashboards  
@@ -28,7 +28,7 @@ This portfolio showcases SQL and Power BI projects demonstrating business analys
 
 ---
 
-#### 🧸 Maven Toy Emporium Sales Dashboard
+#### 🧸 Maven Toy Emporium
 **Description:** Analyzed toy retailer sales and inventory; demonstrates advanced dashboard skills.  
 **Business Questions:** Top categories/products, inventory vs sales, monthly trends  
 **Skills:** Power Query, DAX, KPIs, drill-throughs  
