@@ -8,7 +8,7 @@ Here I showcase hands-on projects using **Power BI, Excel and SQL** to solve bus
 I have a background in **accounting and finance**, with many years of experience using Excel.  
 Now, I’m expanding into **Power BI and SQL** to build stronger data analysis, reporting, and visualization skills.  
 
-This portfolio showcases Power BI and SQL projects demonstrating business analysis, data modeling, and visualization skills.
+This portfolio showcases Power BI, Excel and SQL projects demonstrating business analysis, data modeling, and visualization skills.
 
 
 ## 📁 Projects
