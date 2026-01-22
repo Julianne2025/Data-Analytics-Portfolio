@@ -1,5 +1,5 @@
 # 📊 Data Analytics Portfolio – Julie Lorenzen
-Portfolio of Power BI projects featuring data analysis, dashboards, and business insights.
+Portfolio of **Power BI** projects featuring data analysis, dashboards, and business insights.
 
 Welcome to my data analytics portfolio!  
 Here I showcase hands-on projects using **Power BI, Excel and SQL** to solve business problems and deliver insights.  
