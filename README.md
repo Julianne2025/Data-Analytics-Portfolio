@@ -21,14 +21,12 @@ This repository is organized by tool with each folder containing projects, files
 **Business Questions:** Top products, monthly/yearly trends, top-performing regions  
 **Skills:** Power Query, DAX, interactive dashboards  
 **Files:**  
-- [`PBIX`](./PowerBI_UdemyCourse/MavenCycles_SalesDashboard.pbix)  
+- Maven_Cycles.pbix [`PBIX`](./PowerBI_UdemyCourse/MavenCycles_SalesDashboard.pbix)  
 **Preview:**  
-![Maven Cycles Dashboard](./PowerBI_UdemyCourse/images/MavenCycles_screenshot.png)
+- Dashboard preview ![Maven Cycles Dashboard](./PowerBI_UdemyCourse/images/MavenCycles_screenshot.png)
 
 
-Maven_Cycles.pbix
 
-Dashboard preview (image)
 ---
 
 #### 🧸 Maven Toy Emporium
