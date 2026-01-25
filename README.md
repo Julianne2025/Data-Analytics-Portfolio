@@ -31,7 +31,7 @@ This portfolio showcases **Power BI, Excel and SQL Server** projects demonstrati
 #### 🧸 Maven Toy Emporium
 **Description:** Analyzed a fictional toy retailer sales and inventory; demonstrates dashboard skills.  
 **Business Questions:** Top categories/products, inventory vs sales, monthly trends  
-**Skills:** Power Query, DAX, KPIs, drill-throughs  
+**Skills:** Power Query, DAX, KPIs
 **Files:**  
 - [`PBIX`](./PowerBI_UdemyCourse/MavenToyEmporium_Dashboard.pbix)  
 **Preview:**  
