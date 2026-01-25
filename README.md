@@ -17,7 +17,7 @@ This repository is organized by tool with each folder containing projects, files
 
 
 #### 🚴 Maven Cycles
-**Description:** Analyzed sales data for a fictional bicycle company; demonstrates course learned skills in Power BI.  
+**Description:** Analyzed sales data for a fictional bicycle company; demonstrates Power BI skills.  
 **Business Questions:** Top products, trends, top-performing regions  
 **Skills:** Power Query, DAX, dashboards
 
@@ -29,7 +29,7 @@ This repository is organized by tool with each folder containing projects, files
 ---
 
 #### 🧸 Maven Toy Emporium
-**Description:** Analyzed a fictional toy retailer sales and inventory; demonstrates dashboard skills.  
+**Description:** Analyzed a fictional toy retailer sales and inventory; demonstrates Power BI skills.  
 **Business Questions:** Top products, inventory vs sales, trends  
 **Skills:** Power Query, DAX, dashboards
 
