@@ -1,8 +1,5 @@
 # 📊 Data Analytics Portfolio – Julie Lorenzen
-Portfolio of data analytics projects using Power BI, Excel, and SQL Server focused on data analysis, dashboards, and business insights.
-
-Welcome to my data analytics portfolio!  
-Here I showcase hands-on projects using **Power BI, Excel and SQL Server** to solve business problems and deliver insights.  
+Portfolio of data analytics projects using **Power BI, Excel, and SQL Server** focused on data analysis, dashboards, and business insights.
 
 ## 🔹 About Me
 I have a background in **accounting and finance**, with many years of experience using **Excel**.  
@@ -12,6 +9,8 @@ This portfolio showcases **Power BI, Excel and SQL Server** projects demonstrati
 
 
 ## 📁 Projects
+
+This repository is organized by tool. Each folder contains projects, files, and brief documentation.
 
 
 ### **Power BI Projects**
