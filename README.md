@@ -10,7 +10,7 @@ This portfolio showcases **Power BI, Excel and SQL Server** projects demonstrati
 
 ## 📁 Projects
 
-This repository is organized by tool. Each folder contains projects, files, and brief documentation.
+This repository is organized by tool with each folder containing projects, files, and brief documentation.
 
 
 ### **Power BI Projects**
@@ -25,6 +25,10 @@ This repository is organized by tool. Each folder contains projects, files, and 
 **Preview:**  
 ![Maven Cycles Dashboard](./PowerBI_UdemyCourse/images/MavenCycles_screenshot.png)
 
+
+Maven_Cycles.pbix
+
+Dashboard preview (image)
 ---
 
 #### 🧸 Maven Toy Emporium
