@@ -17,25 +17,25 @@ This repository is organized by tool with each folder containing projects, files
 
 
 #### 🚴 Maven Cycles
-**Description:** Analyzed sales data for a fictional bicycle company; demonstrates course-learned skills in Power BI.  
-**Business Questions:** Top products, monthly/yearly trends, top-performing regions  
-**Skills:** Power Query, DAX, dashboards  
+**Description:** Analyzed sales data for a fictional bicycle company; demonstrates course learned skills in Power BI.  
+**Business Questions:** Top products, trends, top-performing regions  
+**Skills:** Power Query, DAX, dashboards
+
 **Files:**  
 - Maven_Cycles.pbix  [`PBIX`](./PowerBI_UdemyCourse/MavenCycles_SalesDashboard.pbix)  
 - Maven_Cycles Dashboard  ![Maven Cycles Dashboard](./PowerBI_UdemyCourse/images/MavenCycles_screenshot.png)
-
 
 
 ---
 
 #### 🧸 Maven Toy Emporium
 **Description:** Analyzed a fictional toy retailer sales and inventory; demonstrates dashboard skills.  
-**Business Questions:** Top categories/products, inventory vs sales, monthly trends  
+**Business Questions:** Top products, inventory vs sales, trends  
 **Skills:** Power Query, DAX, dashboards
+
 **Files:**  
-- [`PBIX`](./PowerBI_UdemyCourse/MavenToyEmporium_Dashboard.pbix)  
-**Preview:**  
-![Maven Toy Emporium Dashboard](./PowerBI_UdemyCourse/images/MavenToyEmporium_screenshot.png)
+- Maven_Toy_Emporium.pbix  [`PBIX`](./PowerBI_UdemyCourse/MavenToyEmporium_Dashboard.pbix)  
+- Maven_Toy_Emporium Dashboard  ![Maven Toy Emporium Dashboard](./PowerBI_UdemyCourse/images/MavenToyEmporium_screenshot.png)
 
 
 
