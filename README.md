@@ -13,7 +13,7 @@ This portfolio showcases **Power BI, Excel and SQL Server** projects demonstrati
 This repository is organized by tool with each folder containing projects, files, and brief documentation.
 
 
-### **Power BI Projects**
+### **Power BI**
 
 
 #### 🚴 Maven Cycles
@@ -39,10 +39,10 @@ This repository is organized by tool with each folder containing projects, files
 
 
 
-### **Excel Projects**
+### **Excel**
 
 
-### **SQL Server Projects**
+### **SQL Server**
 
 
 
