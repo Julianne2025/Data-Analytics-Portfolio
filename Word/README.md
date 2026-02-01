@@ -7,4 +7,4 @@ Skills include:
 - Formulas
 - Data Dictionaries
 - ETL Procedures
-- Executive Summaries
+
