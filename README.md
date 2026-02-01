@@ -25,7 +25,7 @@ This repository is organized by tool with each folder containing projects, files
 **Skills:** Power Query, DAX, dashboards
 
 **Files:**  
-- Maven Cycles Dashboard  ![Maven Cycles Dashboard](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/Maven-Cycles-Screenshot.png)
+- Maven Cycles Dashboard  ![Maven Cycles Dashboard](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/Maven-Cycles-Screenshot.png)
 - Maven Cycles.pbix  [Download PBIX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/Maven-Cycles.pbix)
 
 
