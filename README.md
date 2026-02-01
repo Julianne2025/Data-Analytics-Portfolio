@@ -14,7 +14,7 @@ This repository is organized by tool with each folder containing projects, files
 
 ### **Excel**
 
-[./PowerBI_UdemyCourse/MavenCycles_SalesDashboard.pbix]
+
 
 ### **Power BI**
 
@@ -37,7 +37,7 @@ This repository is organized by tool with each folder containing projects, files
 **Skills:** Power Query, DAX, dashboards
 
 **Files:**  
-- Maven Toy Emporium.pbix  [`PBIX`](./PowerBI_UdemyCourse/MavenToyEmporium_Dashboard.pbix)  
+- Maven Toy Emporium.pbix  [Download PBIX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/Maven-Toy-Emporium.pbix)
 - Maven Toy Emporium Dashboard  ![Maven Toy Emporium Dashboard](./PowerBI_UdemyCourse/images/MavenToyEmporium_screenshot.png)
 
 
