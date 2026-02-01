@@ -38,7 +38,7 @@ https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/Mave
 **Skills:** Power Query, DAX, dashboards
 
 **Files:**  
-- Maven Toy Emporium Dashboard  ![Maven Toy Emporium Dashboard](./PowerBI_UdemyCourse/images/MavenToyEmporium_screenshot.png)
+- Maven Toy Emporium Dashboard  ![Maven Toy Emporium Dashboard]((https://raw.githubusercontent.com/Julianne2025/Data-Analytics-Portfolio/main/Power-BI/Maven-Toy-Emporium-Screenshot.png)
 - Maven Toy Emporium.pbix  [Download PBIX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/Maven-Toy-Emporium.pbix)
 
 ![Maven Toy Emporium Dashboard](https://raw.githubusercontent.com/Julianne2025/Data-Analytics-Portfolio/main/Power-BI/Maven-Toy-Emporium-Screenshot.png)
