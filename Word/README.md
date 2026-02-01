@@ -6,5 +6,5 @@ Skills include:
 - Project Outlines
 - Formulas
 - Data Dictionaries
-- Data Procedures
+- ETL Procedures
 - Executive Summaries
