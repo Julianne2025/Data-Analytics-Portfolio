@@ -25,8 +25,8 @@ This repository is organized by tool with each folder containing projects, files
 **Skills:** Power Query, DAX, dashboards
 
 **Files:**  
-- Maven Cycles.pbix  [Download PBIX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/Maven-Cycles.pbix)
 - Maven Cycles Dashboard  ![Maven Cycles Dashboard](./PowerBI_UdemyCourse/images/MavenCycles_screenshot.png)
+- Maven Cycles.pbix  [Download PBIX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/Maven-Cycles.pbix)
 
 
 ---
@@ -37,8 +37,8 @@ This repository is organized by tool with each folder containing projects, files
 **Skills:** Power Query, DAX, dashboards
 
 **Files:**  
-- Maven Toy Emporium.pbix  [Download PBIX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/Maven-Toy-Emporium.pbix)
 - Maven Toy Emporium Dashboard  ![Maven Toy Emporium Dashboard](./PowerBI_UdemyCourse/images/MavenToyEmporium_screenshot.png)
+- Maven Toy Emporium.pbix  [Download PBIX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/Maven-Toy-Emporium.pbix)
 
 
 
