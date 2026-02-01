@@ -29,6 +29,9 @@ This repository is organized by tool with each folder containing projects, files
 - Maven Cycles.pbix  [Download PBIX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/Maven-Cycles.pbix)
 
 https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/Maven-Toy-Emporium-Screenshot.png
+## Maven Cycles Dashboard
+
+![Maven Cycles Dashboard](https://raw.githubusercontent.com/Julianne2025/Data-Analytics-Portfolio/main/Power-BI/Maven-Cycles/images/Maven-Cycles-Screenshot.png)
 
 ---
 
