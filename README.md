@@ -14,7 +14,7 @@ This repository is organized by tool with each folder containing projects, files
 
 ### **Excel**
 
-
+---
 
 ### **Power BI**
 
@@ -41,9 +41,11 @@ This repository is organized by tool with each folder containing projects, files
 - Maven Toy Emporium Dashboard  ![Maven Toy Emporium Dashboard](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/Maven-Toy-Emporium-Screenshot.png)
 - Maven Toy Emporium.pbix  [Download PBIX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/Maven-Toy-Emporium.pbix)
 
+---
 
 ### **SQL Server**
 
+---
 
 ### **Word**
 
