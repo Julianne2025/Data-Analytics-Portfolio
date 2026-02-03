@@ -6,6 +6,6 @@ This folder contains Power BI reports created for skills demonstration and learn
 - Data modeling
 - DAX measures
 - Visual design & storytelling
-- Data transformation (Power Query)
+- ETL (Power Query)
 
 See the main portfolio README for screenshots and descriptions.
