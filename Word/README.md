@@ -3,8 +3,8 @@
 Word work focused on analysis, formulas and documentation used in accounting and reporting contexts.
 
 Skills include:
-- Project Outlines
-- Formulas
-- Data Dictionaries
+- Power BI Exam Outline
+- DAX Formulas
+- Data Dictionary
 - ETL Procedures
 
