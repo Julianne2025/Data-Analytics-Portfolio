@@ -50,5 +50,5 @@ This repository is organized by tool with each folder containing projects, files
 ### **Word**
 
 **Files**
-- Power BI PL-300 Exam Outline  Word/POWER BI Outline.docx
+- Power BI PL-300 Exam Outline ![Power BI Pl-300 Exam Outline Dashboard](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Word/Power-BI-PL-300-Exam-Outline.png)
 - 
