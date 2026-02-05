@@ -12,6 +12,7 @@ This portfolio showcases **Excel, Power BI, SQL Server and Word** files demonstr
 
 This repository is organized by tool with each folder containing projects, files, and brief documentation.
 
+
 ### **Excel**
 
 **Description:**  Excel files; demonstrates Excel VBA Macro skills.
