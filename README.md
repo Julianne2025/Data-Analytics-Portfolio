@@ -48,7 +48,7 @@ This repository is organized by tool with each folder containing projects, files
 
 **Description:**  SQL scripts; demonstrates commons SQL Server query skills.
 
-**Files**
+**Files:**
 
 ---
 
@@ -64,5 +64,5 @@ This repository is organized by tool with each folder containing projects, files
 
 **Description:** Word documents; demonstrates Word skills and use in documenting Power BI and DAX skills.
 
-**Files**
+**Files:**
 
