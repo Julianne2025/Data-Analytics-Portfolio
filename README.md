@@ -49,8 +49,10 @@ This repository is organized by tool with each folder containing projects, files
 
 ### **Word**
 
+**Description:** Word documents; demonstrates Word skills and use in documenting Power BI and DAX skills.
+
 **Files**
-- Maven Toy Emporium Dashboard                     ![Maven Toy Emporium Dashboard](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/Maven-Toy-Emporium-Screenshot.png)
+
 - Power BI PL-300 Exam Outline Dashboard ![Power BI Pl-300 Exam Outline Dashboard](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Word/Power-BI-PL-300-Exam-Outline-Screenshot.png)
 - Power BI PL-300 Exam Outline.docx   [Download DOCX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Word/Power-BI-PL-300-Exam-Outline.docx)
 
