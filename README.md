@@ -13,16 +13,9 @@ This portfolio showcases **Excel, Power BI, SQL Server and Word** files demonstr
 This repository is organized by tool with each folder containing projects, files, and brief documentation.
 
 
-### **Excel**
-
-**Description:**  Excel files; demonstrates Excel VBA Macro skills.
-
-
-**Files:** 
-
 ---
 
-### **Power BI**
+### **Power BI Projects**
 
 
 #### 🚴 Maven Cycles
@@ -49,7 +42,6 @@ This repository is organized by tool with each folder containing projects, files
 - Maven Toy Emporium Dashboard  ![Maven Toy Emporium Dashboard](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/Maven-Toy-Emporium-Screenshot.png)
 
 
-
 ---
 
 ### **SQL Server**
@@ -58,6 +50,13 @@ This repository is organized by tool with each folder containing projects, files
 
 **Files**
 
+---
+
+### **Excel**
+
+**Description:**  Excel files; demonstrates Excel VBA Macro skills.
+
+**Files:** 
 
 ---
 
