@@ -14,6 +14,11 @@ This repository is organized by tool with each folder containing projects, files
 
 ### **Excel**
 
+**Description:**  Excel files; demonstrates Excel VBA Macro skills.
+
+
+**Files:** 
+
 ---
 
 ### **Power BI**
@@ -48,6 +53,11 @@ This repository is organized by tool with each folder containing projects, files
 
 ### **SQL Server**
 
+**Description:**  SQL scripts; demonstrates commons SQL Server query skills.
+
+**Files**
+
+
 ---
 
 ### **Word**
@@ -55,9 +65,4 @@ This repository is organized by tool with each folder containing projects, files
 **Description:** Word documents; demonstrates Word skills and use in documenting Power BI and DAX skills.
 
 **Files**
-
-- Power BI PL-300 Exam Outline.docx [Download DOCX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Word/Power-BI-PL-300-Exam-Outline.docx)
-- Power BI PL-300 Exam Outline Dashboard
-![Power BI Pl-300 Exam Outline Dashboard](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Word/Power-BI-PL-300-Exam-Outline-Screenshot.png)
-
 
