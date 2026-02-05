@@ -8,6 +8,7 @@ Now, I’m expanding into **Power BI and SQL Server** to build stronger data ana
 This portfolio showcases **Excel, Power BI, SQL Server and Word** files demonstrating business analysis, data modeling, and visualization skills.
 
 
+
 ## 📁 Projects
 
 This repository is organized by tool with each folder containing projects, files, and brief documentation.
