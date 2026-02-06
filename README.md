@@ -16,7 +16,7 @@ This repository is organized by tool with each folder containing projects, files
 
 ---
 
-### **Power BI Projects**
+### 📁 **Power BI**
 
 
 #### 🚴 Maven Cycles
