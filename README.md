@@ -50,8 +50,7 @@ This repository is organized by tool with each folder containing projects, files
 **Description:**  SQL scripts; demonstrates commons SQL Server query skills.
 
 **Files:**
-- 
-- 
+
 
 ---
 
@@ -61,7 +60,7 @@ This repository is organized by tool with each folder containing projects, files
 
 **Files:** 
 - Freight-JE-Upload-Macro.xlsm
-- 
+
 
 
 ---
