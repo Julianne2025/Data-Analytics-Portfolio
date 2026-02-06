@@ -45,7 +45,7 @@ This repository is organized by tool with each folder containing projects, files
 
 ---
 
-### **SQL Server**
+### 📁 **SQL Server**
 
 **Description:**  SQL scripts; demonstrates commons SQL Server query skills.
 
@@ -54,7 +54,7 @@ This repository is organized by tool with each folder containing projects, files
 
 ---
 
-### **Excel**
+### 📁 **Excel**
 
 **Description:**  Excel files; demonstrates Excel VBA Macro skills for ETL.
 
@@ -65,7 +65,7 @@ This repository is organized by tool with each folder containing projects, files
 
 ---
 
-### **Word**
+### 📁 **Word**
 
 **Description:** Word documents; demonstrates Word skills in documenting Power BI and DAX skills.
 
