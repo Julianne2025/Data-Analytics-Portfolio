@@ -11,7 +11,7 @@ This portfolio showcases **Excel, Power BI, SQL Server and Word** files demonstr
 
 ## 📁 Projects
 
-This repository is organized by tool with each folder containing projects, files, and brief documentation.
+This repository is organized by tool with each folder containing projects, files, and documentation plus screenshots of files.
 
 
 ---
