@@ -50,20 +50,27 @@ This repository is organized by tool with each folder containing projects, files
 **Description:**  SQL scripts; demonstrates commons SQL Server query skills.
 
 **Files:**
+- 
+- 
 
 ---
 
 ### **Excel**
 
-**Description:**  Excel files; demonstrates Excel VBA Macro skills.
+**Description:**  Excel files; demonstrates Excel VBA Macro skills for ETL.
 
 **Files:** 
+- Freight-JE-Upload-Macro.xlsm
+- 
+
 
 ---
 
 ### **Word**
 
-**Description:** Word documents; demonstrates Word skills and use in documenting Power BI and DAX skills.
+**Description:** Word documents; demonstrates Word skills in documenting Power BI and DAX skills.
 
 **Files:**
+- Power-BI-PL-300-Exam-Outline.docx
+- Common-DAX-Functions.docx
 
