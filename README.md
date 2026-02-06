@@ -47,7 +47,7 @@ This repository is organized by tool with each folder containing projects, files
 
 ### 📁 **SQL Server**
 
-**Description:**  SQL scripts; demonstrates commons SQL Server query skills.
+**Description:**  SQL scripts; demonstrates common SQL Server query skills.
 
 **Files:**
 
