@@ -56,7 +56,7 @@ This repository is organized by tool with each folder containing projects, files
 
 ### 📁 **Excel**
 
-**Description:**  Excel files; demonstrates Excel VBA Macro skills for ETL.
+**Description:**  Excel files; demonstrates Excel VBA Macro, PivotTable, and VLOOKUP skills for ETL.
 
 **Files:** 
 - Freight-JE-Upload-Macro.xlsm
