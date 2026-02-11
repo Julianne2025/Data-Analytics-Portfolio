@@ -7,15 +7,15 @@ Now, I’m expanding into **Power BI and SQL Server** to build stronger data ana
 
 This portfolio showcases **Excel, Power BI, SQL Server and Word** files demonstrating business analysis, data modeling, and visualization skills.
 
-## Accomplishments
+### BI Experience
 
-•	Automated data validation and reporting processes in ERP systems, reducing manual corrections and increasing accuracy.
-•	Designed, documented, and maintained SQL scripts and queries for data extraction, transformation, and reporting purposes.
-•	Developed structured dashboards and reports to summarize complex financial and operational data for business users.
-•	Applied ETL principles to prepare large datasets for analysis and visualization.
-•	Created interactive Power BI dashboards to track KPIs, highlight trends, and support decision-making.
-•	Translated raw, messy business data into clear, actionable insights for stakeholders.
-•	GitHub portfolio includes SQL scripts, ETL processes, and Power BI dashboards demonstrating analytical and reporting skills.
+-	Automated data validation and reporting processes in ERP systems, reducing manual corrections and increasing accuracy.
+-	Designed, documented, and maintained SQL scripts and queries for data extraction, transformation, and reporting purposes.
+-	Developed structured dashboards and reports to summarize complex financial and operational data for business users.
+-	Applied ETL principles to prepare large datasets for analysis and visualization.
+-	Created interactive Power BI dashboards to track KPIs, highlight trends, and support decision-making.
+-	Translated raw, messy business data into clear, actionable insights for stakeholders.
+-	GitHub portfolio includes SQL scripts, ETL processes, and Power BI dashboards demonstrating analytical and reporting skills.
 
 
 
