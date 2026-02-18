@@ -19,7 +19,7 @@ Designed to improve accuracy by reducing month-end close errors caused by manual
 Improved efficiency by saving many hours of time.
 
 - Freight-GLCodeCheck-Macro.xlsm - VLOOKUP Macro compares freight invoice GL codes to a list of valid freight GL codes retrieved from the Chart of Accounts
-  before file is uploaded into JDE to identify invalid codes.  Prevents freight expense accrual upload issues regarding error codes due to locations closing or moving. 
+  before file is uploaded into JDE to identify invalid codes.  Prevents freight expense accrual upload issues regarding error codes or wrong accounts due to locations closing or moving. 
 
 
 
