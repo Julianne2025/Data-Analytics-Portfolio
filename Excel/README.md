@@ -13,7 +13,7 @@ Skills include:
 
 ## Excel Files:
 - Freight-JE-Upload-Macro.xlsm - Automated journal entry upload using Excel VBA.  						
-JE Upload Form displaying three column GL account and dollar amounts.
+JE Upload Form displaying 3 column GL account and dollar amounts.
 Data converted into file for automatic upload into JD Edwards ERP (JDE) for accounting close.
 Improved accuracy and efficiency by reducing month-end close errors formerly caused by manual data entry keying or repetitive copy and pasting directly into JDE.
 
