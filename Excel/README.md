@@ -13,8 +13,8 @@ Skills include:
 
 ## Excel Files:
 - Freight-JE-Upload-Macro.xlsm - Automated journal entry upload using Excel VBA.  						
-JE Upload displaying three column GL account and dollar amounts.
-Converted into file for automatic upload into JD Edwards ERP (JDE) for accounting close.
+JE Upload Form displaying three column GL account and dollar amounts.
+Data converted into file for automatic upload into JD Edwards ERP (JDE) for accounting close.
 Improved accuracy and efficiency by reducing month-end close errors formerly caused by manual data entry keying or repetitive copy and pasting directly into JDE.
 
 - Freight-GLCodeCheck-Macro.xlsm - VLOOKUP Macro compares GL codes retrieved from large consolidated freight invoice files to a list of valid freight GL codes from the Chart of Accounts
