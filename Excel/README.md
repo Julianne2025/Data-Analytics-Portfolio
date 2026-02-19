@@ -15,7 +15,10 @@ Skills include:
 
 - Freight-GLCodeCheck-VLOOKUP-Macro.xlsm - VLOOKUP Macro compares GL codes retrieved from large consolidated freight invoice files to valid freight GL codes from the Chart of Accounts
 before freight expense accrual file is uploaded into ERP system in order to identify invalid GL codes.
-Prevents freight expense upload issues due to wrong GL accounts. 
+Prevents freight expense upload issues due to wrong GL accounts.
+
+- Used VLOOKUP to validate freight invoice GL codes against the Chart of Accounts before ERP upload to prevent invalid postings.
+
 
 - Freight-JE-Upload-Macro.xlsm - Automated journal entry upload using Excel VBA.  						
 JE Upload Form displaying 3 column GL account and dollar amounts.
