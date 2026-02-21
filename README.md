@@ -21,7 +21,7 @@ This portfolio showcases **Excel, Power BI, SQL Server and Word** files demonstr
 
 ## 📁 Projects
 
-This repository is organized by tool with each folder containing projects, files, and documentation plus screenshots of files.
+This repository is organized by tool with each folder containing projects, files, and documentation plus screenshots of each file.
 
 
 ---
@@ -57,7 +57,7 @@ This repository is organized by tool with each folder containing projects, files
 
 ### 📁 **SQL Server**
 
-**Description:**  SQL scripts; demonstrates common SQL Server query skills.
+**Description:**  SQL scripts; demonstrates common SQL Server query skills
 
 **Files:**
 
@@ -66,28 +66,28 @@ This repository is organized by tool with each folder containing projects, files
 
 ### 📁 **Excel**
 
-**Description:**  Excel files; demonstrates Excel VBA Macro, PivotTable, and VLOOKUP skills for ETL.
+**Description:**  Excel files; demonstrates Excel Macro, VLOOKUP, and Pivot Table skills
 
 **Files:** 
 - Freight-JE-Upload-Macro.xlsm
-
-
+- Freight-VLOOKUP-Macro.xlsm
+- FreightAnalysis-Pivot-Table.xls
 
 ---
 
 ### 📁 **Word**
 
-**Description:** Word documents; demonstrates Word skills in documenting Power BI and DAX skills.
-
+**Description:** Word documents; demonstrates documentation skills
 **Files:**
 - Power-BI-PL-300-Exam-Outline.docx
 - Common-DAX-Functions.docx
+- SQLServer2022-Installation-Procedure.docx
 
 ---
 
 ### 📁 **Access**
 
-**Description:** Access files; demonstrates Access data and ETL skills.
+**Description:** Access files; demonstrates ETL skills
 
 **Files:**
 
