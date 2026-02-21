@@ -6,7 +6,7 @@ Skills include:
 - VBA Macros, VLOOKUPS, Pivot Tables
 - Advanced formulas
 - Data validation
-- Cleanup and reconciliation techniques
+
 
 
 ## Excel Files:
