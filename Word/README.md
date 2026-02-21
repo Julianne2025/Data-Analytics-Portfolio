@@ -3,10 +3,11 @@
 Word work focused on analysis, formulas and documentation used in accounting and reporting contexts.
 
 Skills include:
-- Power BI Exam Outline
-- DAX Formulas
-- Data Dictionary
-- ETL Procedures
+- Outlines
+- Documentation
+- Procedures
+
+## Word Files:
 
 - Power-BI-PL-300-Exam-Outline.docx
 - Common-DAX-Functions.docx
