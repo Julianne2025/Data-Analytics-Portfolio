@@ -69,6 +69,7 @@ This repository is organized by tool with each folder containing projects, files
 **Description:**  Excel files; demonstrates Excel Macro, VLOOKUP, and Pivot Table skills
 
 **Files:** 
+
 - Freight-JE-Upload-Macro.xlsm
 - Freight-VLOOKUP-Macro.xlsm
 - FreightAnalysis-Pivot-Table.xls
@@ -78,7 +79,9 @@ This repository is organized by tool with each folder containing projects, files
 ### 📁 **Word**
 
 **Description:** Word documents; demonstrates documentation skills
+
 **Files:**
+
 - Power-BI-PL-300-Exam-Outline.docx
 - Common-DAX-Functions.docx
 - SQLServer2022-Installation-Procedure.docx
