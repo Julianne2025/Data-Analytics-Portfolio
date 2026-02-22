@@ -18,7 +18,7 @@ Skills include:
 Improved accuracy and efficiency by preventing month-end close errors due to manual data entry or repetitive copy and pasting
 
 
-- Freight-PivotTable.xls - Used Pivot Table to total freight expense by carrier from consolidated freight invoice
+- Freight-PivotTable.xls - Used Pivot Table with Pivot Chart to total freight expense by carrier from consolidated freight invoice
 
 
 
