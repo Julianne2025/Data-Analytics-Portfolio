@@ -3,7 +3,7 @@
 Excel work focused on analysis, data cleanup, and formulas used in accounting and reporting contexts.
 
 Skills include:
-- VBA Macros, VLOOKUPS, Pivot Tables
+- VBA Macros, VLOOKUPS, Pivot Tables and Charts, Power Pivot
 - Advanced formulas
 - Data validation
 
