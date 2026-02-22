@@ -73,6 +73,7 @@ This repository is organized by tool with each folder containing projects, files
 - Freight-JE-Upload-Macro.xlsm
 - Freight-VLOOKUP-Macro.xlsm
 - Freight-PivotTable.xls
+- Freight-PowerPivot.xls
 
 ---
 
