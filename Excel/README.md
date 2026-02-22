@@ -3,7 +3,7 @@
 Excel work focused on analysis, data cleanup, and formulas used in accounting and reporting contexts.
 
 Skills include:
-- VBA Macros, VLOOKUPS, Pivot Tables and Charts, Power Pivot
+- VBA Macros, VLOOKUPS, Pivot Table and Pivot Chart
 - Advanced formulas
 - Data validation
 
@@ -20,7 +20,7 @@ improve accuracy and efficiency by preventing month-end close errors due to manu
 
 - Freight-PivotTable.xls - Used Pivot Table with Pivot Chart to total freight expense by carrier from consolidated freight invoice
 
-- Freight-PowerPivot.xls - Used Power Pivot and charts to analyze freight expenses
+
 
 
 
