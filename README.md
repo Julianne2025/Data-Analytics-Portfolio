@@ -66,14 +66,13 @@ This repository is organized by tool with each folder containing projects, files
 
 ### 📁 **Excel**
 
-**Description:**  Excel files; demonstrates Excel Macro, VLOOKUP, Pivot Table and Chart, and Power Pivot skills
+**Description:**  Excel files; demonstrates Excel Macro, VLOOKUP, Pivot Table and Pivot Chart skills
 
 **Files:** 
 
 - Freight-JE-Upload-Macro.xlsm
 - Freight-VLOOKUP-Macro.xlsm
 - Freight-PivotTable.xls
-- Freight-PowerPivot.xls
 
 ---
 
