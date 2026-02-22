@@ -66,7 +66,7 @@ This repository is organized by tool with each folder containing projects, files
 
 ### 📁 **Excel**
 
-**Description:**  Excel files; demonstrates Excel Macro, VLOOKUP, and Pivot Table skills
+**Description:**  Excel files; demonstrates Excel Macro, VLOOKUP, Pivot Table, Pivot Chart, and Power Pivot skills
 
 **Files:** 
 
