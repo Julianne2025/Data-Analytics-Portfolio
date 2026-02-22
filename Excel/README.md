@@ -20,6 +20,8 @@ improve accuracy and efficiency by preventing month-end close errors due to manu
 
 - Freight-PivotTable.xls - Used Pivot Table with Pivot Chart to total freight expense by carrier from consolidated freight invoice
 
+- Freight-PowerPivot.xls - Used Power Pivot and charts to analyze freight expenses
+
 
 
 
