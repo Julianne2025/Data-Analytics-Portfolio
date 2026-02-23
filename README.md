@@ -21,36 +21,20 @@ This portfolio showcases **Excel, Power BI, SQL Server and Word** files demonstr
 
 ## 📁 Projects
 
-This repository is organized by tool with each folder containing projects, files, and documentation plus screenshots of each file.
+This repository is organized by tool with each folder containing files and screenshots of each file.
 
 
 ---
 
 ### 📁 **Power BI**
 
+**Description:**  Power BI files; demonstrates Power Query, data modeling, and dashboard skills
 
-#### 🚴 Maven Cycles
-**Description:** Analyzed sales data for a fictional bicycle company; demonstrates Power BI skills.  
-**Business Questions:** Top products, trends, top-performing regions  
-**Skills:** Power Query, DAX, dashboards
 
 **Files:**  
-- Maven Cycles.pbix  [Download PBIX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/Maven-Cycles.pbix)
-- Maven Cycles Dashboard  ![Maven Cycles Dashboard](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/Maven-Cycles-Screenshot.png)
+- Maven Cycles.pbix  
+- Maven Toy Emporium.pbix  
 
-
-
----
-
-#### 🧸 Maven Toy Emporium
-**Description:** Analyzed a fictional toy retailer sales and inventory; demonstrates Power BI skills.  
-**Business Questions:** Top products, inventory vs sales, trends  
-**Skills:** Power Query, DAX, dashboards
-
-**Files:**  
-
-- Maven Toy Emporium.pbix  [Download PBIX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/Maven-Toy-Emporium.pbix)
-- Maven Toy Emporium Dashboard  ![Maven Toy Emporium Dashboard](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/Maven-Toy-Emporium-Screenshot.png)
 
 
 ---
