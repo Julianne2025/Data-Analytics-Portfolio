@@ -57,7 +57,7 @@ Freight Power BI files
 ---
 
 
-### 📊 SQL Server Skills Demonstrated
+### 📊 SQL Server 2022
 
 Freight SQL Server scripts
 
