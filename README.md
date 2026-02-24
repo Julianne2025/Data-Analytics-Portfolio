@@ -65,7 +65,7 @@ This repository shows the freight invoice analytics process used to validate gen
 **Description:**  Power BI files; demonstrates Power Query, data modeling, and dashboard skills
 
 
-**📁 **Power BI Files:**  
+📁 **Power BI Files:**  
 - Maven Cycles.pbix  
 - Maven Toy Emporium.pbix  
 
@@ -77,7 +77,7 @@ This repository shows the freight invoice analytics process used to validate gen
 
 **Description:**  SQL scripts; demonstrates common SQL Server query skills
 
-**Files:**
+📁 **SQL Server Files:**
 
 - FreightAnalytics.sql
 - FreightAnalytics2.sql
@@ -87,7 +87,7 @@ This repository shows the freight invoice analytics process used to validate gen
 
 **Description:**  Excel files; demonstrates Excel Macro, VLOOKUP, Pivot Table and Pivot Chart skills
 
-**Files:** 
+📁 **Excel Files:** 
 
 - Freight-JE-Upload-Macro.xlsm
 - Freight-VLOOKUP-Macro.xlsm
