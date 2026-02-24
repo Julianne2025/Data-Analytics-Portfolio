@@ -49,9 +49,9 @@ Freight Power BI files
 - Data Modeling
 - Dashboard
 
-📁 **Power BI Files:**  
-- Maven Cycles.pbix  
-- Maven Toy Emporium.pbix  
+📁 **Power BI File:**  
+
+- FreightAnalytics.pbix  
 
 
 ---
@@ -66,7 +66,7 @@ Freight SQL Server scripts
 -	CTEs
 -	Window functions
 
-📁 **SQL Server Files:**
+📁 **SQL Server 2022 Files:**
 
 - FreightAnalytics.sql
 - FreightAnalytics2.sql
