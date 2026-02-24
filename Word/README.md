@@ -9,7 +9,6 @@ Skills include:
 
 ## Word Files:
 
-- Power-BI-PL-300-Exam-Outline.docx
 - Common-DAX-Functions.docx
 - SQLServer2022-Installation-Procedure.docx
 
