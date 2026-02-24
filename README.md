@@ -17,7 +17,7 @@ Now, I’m expanding into **Power BI and SQL Server** to build stronger data ana
 -	Translated raw, messy business data into clear, actionable insights for stakeholders.
 
 
-### 📁 Freight Analytics
+### 📁 Freight Analytics = TOOLS + SKILLS = REPORTS
 
 This repository shows the freight invoice analytics process used to validate general ledger coding, analyze carrier spend, and monitor monthly freight trends.  This portfolio includes SQL scripts, ETL processes, and Power BI dashboards demonstrating analytical and reporting skills.
 
