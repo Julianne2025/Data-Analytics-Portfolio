@@ -1,7 +1,7 @@
-# 📊 Data Analytics Portfolio – Julie Lorenzen - BI Financial Analyst
+## 📊 Data Analytics Portfolio – Julie Lorenzen - BI Financial Analyst
 Portfolio of data analytics work using **Excel, Power BI and SQL Server** focused on data analysis, dashboards, and business insights.
 
-## 🔹 About Me
+### 🔹 About Me
 I have a background in **accounting and finance**, with many years of experience using **Excel**.  
 Now, I’m expanding into **Power BI and SQL Server** to build stronger data analysis, reporting, and visualization skills.  
 
@@ -19,9 +19,9 @@ Now, I’m expanding into **Power BI and SQL Server** to build stronger data ana
 
 
 
-## 📁 Freight Analytics
+### 📁 Freight Analytics
 
-### This repository shows the freight invoice analytics process used to validate general ledger coding, analyze carrier spend, and monitor monthly freight trends.
+#### This repository shows the freight invoice analytics process used to validate general ledger coding, analyze carrier spend, and monitor monthly freight trends.
 
 🧰 Tools Used
 
