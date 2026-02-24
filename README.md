@@ -62,6 +62,12 @@ This repository shows the freight invoice analytics process used to validate gen
 
 ### 📁 **Power BI**
 
+
+###📈 Power BI Dashboard
+
+(Insert screenshots here)
+
+
 **Description:**  Power BI files; demonstrates Power Query, data modeling, and dashboard skills
 
 
@@ -74,6 +80,15 @@ This repository shows the freight invoice analytics process used to validate gen
 ---
 
 ### 📁 **SQL Server**
+### 📊 SQL Skills Demonstrated
+
+•	Joins
+•	Aggregations
+•	CTEs
+•	Window functions
+•	Running totals
+•	Percent of total calculations
+
 
 **Description:**  SQL scripts; demonstrates common SQL Server query skills
 
@@ -84,6 +99,12 @@ This repository shows the freight invoice analytics process used to validate gen
 ---
 
 ### 📁 **Excel**
+### ⚙ Excel Automation
+
+•	Journal Entry upload macro
+•	VLOOKUP reconciliation logic
+•	Pivot table freight summaries
+
 
 **Description:**  Excel files; demonstrates Excel Macro, VLOOKUP, Pivot Table and Pivot Chart skills
 
