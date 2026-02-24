@@ -15,13 +15,13 @@ Now, I’m expanding into **Power BI and SQL Server** to build stronger data ana
 -	Applied ETL principles to prepare large datasets for analysis and visualization.
 -	Created interactive Power BI dashboards to track KPIs, highlight trends, and support decision-making.
 -	Translated raw, messy business data into clear, actionable insights for stakeholders.
--	GitHub portfolio includes SQL scripts, ETL processes, and Power BI dashboards demonstrating analytical and reporting skills.
-
 
 
 ### 📁 Freight Analytics
 
-This repository shows the freight invoice analytics process used to validate general ledger coding, analyze carrier spend, and monitor monthly freight trends.
+This repository shows the freight invoice analytics process used to validate general ledger coding, analyze carrier spend, and monitor monthly freight trends.  
+This portfolio includes SQL scripts, ETL processes, and Power BI dashboards demonstrating analytical and reporting skills.
+
 
 🧰 Tools Used
 
