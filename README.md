@@ -23,6 +23,17 @@ Now, I’m expanding into **Power BI and SQL Server** to build stronger data ana
 
 This repository shows the freight invoice analytics process used to validate general ledger coding, analyze carrier spend, and monitor monthly freight trends.
 
+🧰 Tools Used
+•	SQL Server 2022
+•	Excel (VBA Macros, Pivot Tables)
+•	Power BI
+
+🔎 Business Objectives
+•	Validate GL codes assigned to freight invoices
+•	Identify top freight carriers by spend
+•	Analyze monthly freight trends
+•	Calculate percent contribution by carrier and GL code
+•	Support accrual review and cost control
 
 ---
 
