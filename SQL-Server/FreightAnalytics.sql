@@ -1,3 +1,10 @@
+/* 
+Freight Analytics
+Validate GL codes and analyze freight spend trends
+Julie Lorenzen
+*/
+
+
 USE FreightAnalytics
 GO
 
