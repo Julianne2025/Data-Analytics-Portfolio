@@ -42,7 +42,7 @@ This repository shows the freight invoice analytics process used to validate gen
 •	Joins
 •	Aggregations
 •	CTEs
-•	Window functions (RANK, SUM OVER)
+•	Window functions
 •	Running totals
 •	Percent of total calculations
 
