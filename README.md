@@ -65,7 +65,7 @@ This repository shows the freight invoice analytics process used to validate gen
 **Description:**  Power BI files; demonstrates Power Query, data modeling, and dashboard skills
 
 
-**Files:**  
+**📁 **Power BI Files:**  
 - Maven Cycles.pbix  
 - Maven Toy Emporium.pbix  
 
