@@ -8,6 +8,6 @@ Skills include:
 - Data cleanup
 - Analytical logic
 
-Files:
+## SQL Server Files:
 - FreightAnalytics.sql
 - 
