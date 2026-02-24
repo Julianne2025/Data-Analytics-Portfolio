@@ -58,8 +58,9 @@ Freight Power BI files
 
 ### 📊 SQL Server 2022
 
-Freight SQL Server scripts
+Freight SQL Server query scripts
 
+- SELECT statements
 -	Joins
 -	Aggregations
 -	CTEs
