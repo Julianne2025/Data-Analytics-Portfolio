@@ -21,7 +21,7 @@ Now, I’m expanding into **Power BI and SQL Server** to build stronger data ana
 
 ### 📁 Freight Analytics
 
-#### This repository shows the freight invoice analytics process used to validate general ledger coding, analyze carrier spend, and monitor monthly freight trends.
+This repository shows the freight invoice analytics process used to validate general ledger coding, analyze carrier spend, and monitor monthly freight trends.
 
 🧰 Tools Used
 
