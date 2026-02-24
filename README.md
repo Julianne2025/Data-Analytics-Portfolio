@@ -35,35 +35,14 @@ This repository shows the freight invoice analytics process used to validate gen
 •	Identify top freight carriers by spend
 •	Analyze monthly freight trends
 •	Calculate percent contribution by carrier and GL code
-•	Support accrual review and cost control
-
-📊 SQL Skills Demonstrated
-
-•	Joins
-•	Aggregations
-•	CTEs
-•	Window functions
-•	Running totals
-•	Percent of total calculations
-
-📈 Power BI Dashboard
-
-(Insert screenshots here)
-
-⚙ Excel Automation
-
-•	Journal Entry upload macro
-•	VLOOKUP reconciliation logic
-•	Pivot table freight summaries
-
+•	Support accrual audit review and cost control
 
 
 ---
 
 
 
-
-###📈 Power BI Dashboard
+### 📈 Power BI Dashboard
 
 (Insert screenshots here)
 
@@ -82,31 +61,29 @@ Power BI files; demonstrates Power Query, data modeling, and dashboard skills
 
 ### 📊 SQL Skills Demonstrated
 
-•	Joins
-•	Aggregations
-•	CTEs
-•	Window functions
-•	Running totals
-•	Percent of total calculations
-
-
 SQL scripts; demonstrates common SQL Server query skills
+
+-	Joins
+-	Aggregations
+-	CTEs
+-	Window functions
 
 📁 **SQL Server Files:**
 
 - FreightAnalytics.sql
 - FreightAnalytics2.sql
+  
 ---
 
 
 ### ⚙ Excel Automation
 
+Excel files; demonstrates Excel Macro, VLOOKUP, Pivot Table and Pivot Chart skills
+
 •	Journal Entry upload macro
 •	VLOOKUP reconciliation logic
-•	Pivot table freight summaries
+•	Pivot table and chart freight summaries
 
-
-Excel files; demonstrates Excel Macro, VLOOKUP, Pivot Table and Pivot Chart skills
 
 📁 **Excel Files:** 
 
