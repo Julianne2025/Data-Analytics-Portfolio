@@ -60,25 +60,3 @@ This repository is organized by tool with each folder containing files and scree
 
 ---
 
-### 📁 **Word**
-
-**Description:** Word documents; demonstrates documentation skills
-
-**Files:**
-
-- Power-BI-PL-300-Exam-Outline.docx
-- Common-DAX-Functions.docx
-- SQLServer2022-Installation-Procedure.docx
-
----
-
-### 📁 **Access**
-
-**Description:** Access files; demonstrates ETL skills
-
-**Files:**
-
-
-
-
-
