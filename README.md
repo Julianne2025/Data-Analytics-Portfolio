@@ -25,21 +25,20 @@ This repository shows the freight invoice analytics process used to validate gen
 
 🧰 Tools Used
 
-•	SQL Server 2022
-•	Excel (VBA Macros, Pivot Tables, vlookups)
-•	Power BI
+-	SQL Server 2022
+-	Excel (VBA Macros, Pivot Tables and Charts, vlookups)
+-	Power BI
 
 🔎 Business Objectives
 
-•	Validate GL codes assigned to freight invoices
-•	Identify top freight carriers by spend
-•	Analyze monthly freight trends
-•	Calculate percent contribution by carrier and GL code
-•	Support accrual audit review and cost control
+-	Validate GL codes assigned to freight invoices
+-	Identify top freight carriers by spend
+-	Analyze monthly freight trends
+-	Calculate percent contribution by carrier and GL code
+-	Support accrual audit review and cost control
 
 
 ---
-
 
 
 ### 📈 Power BI Dashboard
@@ -47,7 +46,11 @@ This repository shows the freight invoice analytics process used to validate gen
 (Insert screenshots here)
 
 
-Power BI files; demonstrates Power Query, data modeling, and dashboard skills
+Freight Power BI files
+
+- Power Query
+- data modeling
+- dashboard
 
 
 📁 **Power BI Files:**  
@@ -59,9 +62,9 @@ Power BI files; demonstrates Power Query, data modeling, and dashboard skills
 ---
 
 
-### 📊 SQL Skills Demonstrated
+### 📊 SQL Server Skills Demonstrated
 
-SQL scripts; demonstrates common SQL Server query skills
+Freight SQL Server scripts
 
 -	Joins
 -	Aggregations
@@ -78,11 +81,11 @@ SQL scripts; demonstrates common SQL Server query skills
 
 ### ⚙ Excel Automation
 
-Excel files; demonstrates Excel Macro, VLOOKUP, Pivot Table and Pivot Chart skills
+Freight Excel files
 
-•	Journal Entry upload macro
-•	VLOOKUP reconciliation logic
-•	Pivot table and chart freight summaries
+-	Journal Entry upload macro
+-	VLOOKUP reconciliation logic
+-	Pivot table and chart freight summaries
 
 
 📁 **Excel Files:** 
