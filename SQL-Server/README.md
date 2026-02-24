@@ -7,3 +7,7 @@ Skills include:
 - Joins and aggregations
 - Data cleanup
 - Analytical logic
+
+Files:
+- FreightAnalytics.sql
+- 
