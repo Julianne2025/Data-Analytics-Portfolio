@@ -21,7 +21,7 @@ Now, I’m expanding into **Power BI and SQL Server** to build stronger data ana
 
 ## 📁 Projects
 
-This repository is organized by tool with each folder containing files and screenshots of each file.
+This repository is organized by tool with each folder containing files and screenshots.
 
 
 ---
