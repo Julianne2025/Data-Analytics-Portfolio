@@ -15,7 +15,7 @@ SELECT*
 FROM dbo.FreightInvoice
 
 
--- VALID GL CODE CHECK with LEFT JOIN
+-- VALID GL CODE CHECK
 SELECT
     f.GLCode,
     c.Description
