@@ -37,6 +37,27 @@ This repository shows the freight invoice analytics process used to validate gen
 •	Calculate percent contribution by carrier and GL code
 •	Support accrual review and cost control
 
+📊 SQL Skills Demonstrated
+
+•	Joins
+•	Aggregations
+•	CTEs
+•	Window functions (RANK, SUM OVER)
+•	Running totals
+•	Percent of total calculations
+
+📈 Power BI Dashboard
+
+(Insert screenshots here)
+
+⚙ Excel Automation
+
+•	Journal Entry upload macro
+•	VLOOKUP reconciliation logic
+•	Pivot table freight summaries
+
+
+
 ---
 
 ### 📁 **Power BI**
