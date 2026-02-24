@@ -21,7 +21,7 @@ Now, I’m expanding into **Power BI and SQL Server** to build stronger data ana
 
 ## 📁 Projects
 
-This repository is organized by tool with each folder containing files and screenshots.
+This repository shows the freight invoice analytics process used to validate GL coding, analyze carrier spend, and monitor monthly freight trends.
 
 
 ---
