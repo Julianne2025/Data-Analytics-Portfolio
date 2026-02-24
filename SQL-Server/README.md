@@ -1,13 +1,10 @@
 ## SQL Server Portfolio
 
-SQL scripts and examples demonstrating querying, data transformation, and analysis.
+SQL scripts demonstrating querying, data validation, and analysis.
 
-Skills include:
 - T-SQL queries
-- Joins and aggregations
-- Data cleanup
-- Analytical logic
+- Joins
+- Aggregations
+- CTE
 
-## SQL Server Files:
-- FreightAnalytics.sql
-- 
+
