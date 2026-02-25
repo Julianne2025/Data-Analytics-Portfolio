@@ -2,15 +2,13 @@
 
 This folder contains Power BI reports created for skills demonstration and learning purposes.
 
-**Skills demonstrated:**
-- Data modeling
-- DAX measures
-- Visual design & storytelling
-- ETL (Power Query)
+📁 **Power BI File:**  
+
+- FreightAnalytics.pbix  |  Power Query, Data Modeling, Dashboard
 
 
 
-## Power BI Files:
+## Maven Power BI Files:
 
 
 
