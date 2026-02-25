@@ -7,7 +7,7 @@ This folder contains Power BI reports created for skills demonstration and learn
 - FreightAnalytics.pbix  |  Power Query, Data Modeling, Dashboard
 
 
-
+---
 
 ### Maven Power BI Files:
 
