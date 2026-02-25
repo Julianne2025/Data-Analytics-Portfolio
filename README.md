@@ -75,18 +75,26 @@ Freight SQL Server query scripts
 
 ### ⚙ Excel Automation
 
-Freight Excel files
-
--	Journal Entry upload macro
--	VLOOKUP reconciliation logic
--	Pivot table and chart freight summaries
 
 
 📁 **Excel Files:** 
 
-- Freight-JE-Upload-Macro.xlsm
-- Freight-VLOOKUP-Macro.xlsm
-- Freight-PivotTable.xls
+
+- Freight-PivotTable.xls | Used Pivot Table to total freight expense by carrier from consolidated freight invoice
+
+ 
+- Freight-GLCodeCheck-VLOOKUP-Macro.xlsm | Used VLOOKUP macro to check freight invoice GL codes against the Chart of Accounts before to ERP to prevent invalid GL code issues
+
+
+- Freight-JE-Upload-Macro.xlsm | Used JE Upload Macro Form to upload freight expense accrual data to ERP system for accounting close
+
+
+
+
+
+
+
+
 
 ---
 
