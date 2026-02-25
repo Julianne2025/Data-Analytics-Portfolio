@@ -22,7 +22,7 @@ This repository shows the freight invoice analytics process used to validate gen
 🧰 Tools Used  |  Skills Used
 
 -	SQL Server 2022  |  SQL Queries of Freight Analytics database
--	Excel |  Pivot Table VLOOKUP, JE Upload Macro
+-	Excel |  Pivot Table, VLOOKUP, JE Upload Macro
 -	Power BI |  Power Query, Data Modeling, Dashboard
 
 🔎 Business Objectives and User Friendly Reports
