@@ -12,9 +12,7 @@ Now, I’m expanding into **Power BI and SQL Server** to build stronger data ana
 -	Automated data validation and reporting processes in ERP systems, reducing manual corrections and increasing accuracy.
 -	Designed, documented, and maintained SQL scripts and queries for data extraction, transformation, and reporting purposes.
 -	Developed structured dashboards and reports to summarize complex financial and operational data for business users.
--	Applied ETL principles to prepare large datasets for analysis and visualization.
--	Created interactive Power BI dashboards to track KPIs, highlight trends, and support decision-making.
--	Translated raw, messy business data into clear, actionable insights for stakeholders.
+
 
 
 ### 📈 Freight Analytics
@@ -27,13 +25,11 @@ This repository shows the freight invoice analytics process used to validate gen
 -	Excel |  Pivot Table VLOOKUP, JE Upload Macro
 -	Power BI |  Power Query, Data Modeling, Dashboard
 
-🔎 Business Objectives and Reports
+🔎 Business Objectives and User Friendly Reports
 
--	Validate GL codes assigned to freight invoices
--	Identify top freight carriers by spend
--	Analyze monthly freight trends
--	Calculate percent contribution by carrier and GL code
--	Support accrual audit review and cost control
+-	Applied ETL principles to prepare large datasets for analysis and visualization.
+-	Created interactive Power BI dashboards to track KPIs, highlight trends, and support decision-making.
+-	Translated raw, messy business data into clear, actionable insights for stakeholders.
 
 
 ---
