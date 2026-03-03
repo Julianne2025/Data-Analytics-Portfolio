@@ -38,7 +38,7 @@ This repository shows the freight invoice analytics process used to validate gen
 
 📁 **Power BI File:**  
 
-- FreightAnalytics.pbix  |  Power Query, Data Modeling, Dashboard
+- freight_analytics.pbix  |  Power Query, Data Modeling, Dashboard
 
 
 ---
@@ -47,9 +47,9 @@ This repository shows the freight invoice analytics process used to validate gen
 
 📁 **SQL Server 2022 Files:**
 
-- FreightAnalytics.sql  |  Used SELECT and JOIN to check GL codes, total freight by carrier and GL code, and to get monthly freight trend
+- freight_analytics.sql  |  Used SELECT and JOIN to check GL codes, total freight by carrier and GL code, and to get monthly freight trend
 
-- FreightAnalytics2.sql  |  Used SELECT, CTE, CAST to rank freight carriers, get monthly freight running total, and % total freight by carrier
+- freight_analytics_2.sql  |  Used SELECT, CTE, CAST to rank freight carriers, get monthly freight running total, and % total freight by carrier
 
   
 ---
@@ -58,11 +58,11 @@ This repository shows the freight invoice analytics process used to validate gen
 📁 **Excel Files:** 
 
 
-- Freight-PivotTable.xls | Used Pivot Table to show total freight expense by carrier from consolidated freight invoice
+- freight_pivot_table.xlsx | Used Pivot Table to show total freight expense by carrier from consolidated freight invoice
  
-- Freight-GLCodeCheck-VLOOKUP-Macro.xlsm | Used VLOOKUP macro to check freight invoice GL codes before upload to ERP to prevent invalid GL code issues
+- freight_glcodecheck_vlookup.xlsm | Used VLOOKUP macro to check freight invoice GL codes before upload to ERP to prevent invalid GL code issues
 
-- Freight-JE-Upload-Macro.xlsm | Used JE Upload Macro Form to upload freight expense accrual data to ERP system for accounting close
+- freight_je_upload_template.xlsm | Used JE Upload Macro Form to upload freight expense accrual data to ERP system for accounting close
 
 
 
