@@ -19,8 +19,8 @@ This folder contains Power BI reports created for skills demonstration and learn
 **Skills:** Power Query, DAX, dashboards
 
 **Files:**  
-- maven_cycles.pbix  [Download PBIX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/Maven-Cycles.pbix)
-- maven_cycles.png  ![Maven Cycles Dashboard](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/Maven-Cycles-Screenshot.png)
+- maven_cycles.pbix  [Download PBIX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/maven_cycles.pbix)
+- maven_cycles.png  ![Maven Cycles Dashboard](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/maven_cycles.png)
 
 
 
@@ -33,6 +33,6 @@ This folder contains Power BI reports created for skills demonstration and learn
 
 **Files:**  
 
-- maven_toy_emporium.pbix  [Download PBIX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/Maven-Toy-Emporium.pbix)
-- maven_toy_emporium.png  ![Maven Toy Emporium Dashboard](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/Maven-Toy-Emporium-Screenshot.png)
+- maven_toy_emporium.pbix  [Download PBIX](https://github.com/Julianne2025/Data-Analytics-Portfolio/raw/main/Power-BI/maven_toy_emporium.pbix)
+- maven_toy_emporium.png  ![Maven Toy Emporium Dashboard](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/maven_toy_emporium.png)
 
