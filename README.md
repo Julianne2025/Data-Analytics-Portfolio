@@ -60,7 +60,7 @@ This repository shows the freight invoice analytics process used to validate gen
 
 - freight_pivot_table.xlsx | Used Pivot Table to show total freight expense by carrier from consolidated freight invoice
  
-- freight_glcodecheck_vlookup.xlsm | Used VLOOKUP macro to check freight invoice GL codes before upload to ERP to prevent invalid GL code issues
+- freight_glcodecheck_vlookup.xlsm | Used VLOOKUP macro to check freight invoice for invalid GL codes before upload to ERP
 
 - freight_je_upload_template.xlsm | Used JE Upload Macro Form to upload freight expense accrual data to ERP system for accounting close
 
