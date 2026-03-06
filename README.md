@@ -7,7 +7,7 @@ Now, I’m expanding into **Power BI and SQL Server** to build stronger data ana
 
 
 
-### BI Experience
+### 🔹 BI / Financial Analysis Experience
 
 -	Automated data validation and reporting processes in ERP systems, reducing manual corrections and increasing accuracy.
 -	Designed, documented, and maintained SQL scripts and queries for data extraction, transformation, and reporting purposes.
