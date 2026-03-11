@@ -35,16 +35,6 @@ This repository shows the freight invoice analytics process used to validate gen
 ---
 
 
-
-📁 **Power BI File:**  
-
-- freight_analytics.pbix  |  Power Query, Data Modeling, Dashboard
-
-
----
-
-
-
 📁 **SQL Server 2022 Files:**
 
 - freight_analytics.sql  |  Used SELECT and JOIN to check GL codes, total freight by carrier and GL code, and to get monthly freight trend
@@ -65,6 +55,7 @@ This repository shows the freight invoice analytics process used to validate gen
 - freight_je_upload_template.xlsm | Used JE Upload Macro Form to upload freight expense accrual data to ERP system for accounting close
 
 
+---
 
 
 📁 **Power BI File:**  
@@ -72,10 +63,11 @@ This repository shows the freight invoice analytics process used to validate gen
 - freight_analytics.pbix  |  Power Query, Data Modeling, Dashboard
 - freight_analytics.png ![freight_analytics](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/freight_analytics.png)
 
----
-
-
-
 
 ---
+
+
+
+
+
 
