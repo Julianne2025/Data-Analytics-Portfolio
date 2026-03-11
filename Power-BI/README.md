@@ -5,7 +5,7 @@ This folder contains Power BI reports created for skills demonstration.
 📁 **Power BI File:**  
 
 - freight_analytics.pbix  |  Power Query, Data Modeling, Dashboard
-
+https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/freight_analytics.png
 
 ---
 
