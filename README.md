@@ -67,7 +67,12 @@ This repository shows the freight invoice analytics process used to validate gen
 
 
 
+📁 **Power BI File:**  
 
+- freight_analytics.pbix  |  Power Query, Data Modeling, Dashboard
+- freight_analytics.png ![freight_analytics](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/freight_analytics.png)
+
+---
 
 
 
