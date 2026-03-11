@@ -16,6 +16,12 @@ Excel work focused on analysis, data cleanup, and formulas used in accounting an
 ---
 
 
+freight_pivot_table.png ![freight_analytics](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Excel/freight_pivot_table.png)
+
+
+---
+
+
 freight_glcodecheck_vlookup.png ![freight_glcodecheck_vlookup.png](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Excel/freight_glcodecheck_vlookup.png)
 
 
@@ -28,10 +34,7 @@ freight_je_upload_template.png ![freight_je-upload_template](https://github.com/
 ---
 
 
-freight_pivot_table.png ![freight_analytics](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Excel/freight_pivot_table.png)
 
-
----
 
 
 
