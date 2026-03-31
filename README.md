@@ -35,16 +35,6 @@ This repository shows the freight invoice analytics process used to validate gen
 ---
 
 
-📁 **SQL Server 2022 Files:**
-
-- freight_analytics.sql  |  Used SELECT and JOIN to check GL codes, total freight by carrier and GL code, and to get monthly freight trend
-
-- freight_analytics_2.sql  |  Used SELECT, CTE, CAST to rank freight carriers, get monthly freight running total, and % total freight by carrier
-
-  
----
-
-
 📁 **Power BI File:**  
 
 - freight_analytics.pbix  |  Power Query, Data Modeling, Dashboard
@@ -52,6 +42,17 @@ This repository shows the freight invoice analytics process used to validate gen
 
 
 ---
+
+
+📁 **SQL Server 2022 Files:**
+
+- freight_analytics.sql  |  Used SELECT and JOIN to check GL codes, total freight by carrier and GL code, and to get monthly freight trend
+
+- freight_analytics_2.sql  |  Used SELECT, CTE, CAST to rank freight carriers, get monthly freight running total, and % total freight by carrier
+
+
+---
+
 
 📁 **Excel Files:** 
 
