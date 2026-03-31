@@ -15,7 +15,7 @@ Now, I’m expanding into **Power BI and SQL Server** to build stronger data ana
 
 
 
-### 📈 Freight Analytics
+### 📈 Freight Analysis
 This repository shows the freight invoice analytics process used to validate general ledger coding and analyze carrier spend.  This portfolio includes SQL scripts, Excel ETL processes, and Power BI dashboard demonstrating analytical and reporting skills.
 
 
@@ -37,8 +37,8 @@ This repository shows the freight invoice analytics process used to validate gen
 
 📁 **Power BI File:**  
 
-- freight_analytics.pbix  |  Power Query, Data Modeling, Dashboard
-- freight_analytics.png ![freight_analytics](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/freight_analytics.png)
+- freight.pbix  |  Power Query, Data Modeling, Dashboard
+- weekly_freight_cost_overview.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_overview.png)
 
 
 ---
