@@ -4,8 +4,10 @@ This folder contains Power BI reports created for skills demonstration.
 
 📁 **Power BI File:**  
 
-- freight_analytics.pbix  |  Power Query, Data Modeling, Dashboard
-- freight_analytics.png ![freight_analytics](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/freight_analytics.png)
+- freight.pbix  |  Power Query, Data Modeling, Dashboard
+- weekly_freight_cost_overview.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_overview.png)
+- weekly_freight_cost_drivers.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_drivers.png)
+
 
 ---
 
