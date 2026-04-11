@@ -37,7 +37,7 @@ This repository shows the freight invoice analytics process used to validate gen
 
 📁 **Power BI Files:**  
 
-- freight.pbix  |  Power Query, Data Modeling, Dashboard
+- freight_analysis.pbix  |  Power Query, Data Modeling, Dashboard
 - weekly_freight_cost_overview.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_overview.png)
 - weekly_freight_cost_drivers.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_drivers.png)
 - weekly_freight_kpis.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_kpis.png)
