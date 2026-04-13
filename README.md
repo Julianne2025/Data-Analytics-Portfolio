@@ -23,7 +23,7 @@ This repository shows the freight invoice analysis process used to validate gene
 
 -	SQL Server 2022  |  SQL Queries of Freight Analytics database
 -	Excel |  Pivot Table, VLOOKUP, JE Upload Macro
--	Power BI |  Power Query, Data Modeling, Dashboard
+-	Power BI |  Power Query, Data Modeling, Dashboards
 
 🔎 Business Objectives and User Friendly Reports
 
