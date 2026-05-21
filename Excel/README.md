@@ -6,11 +6,11 @@ Excel work focused on analysis, data cleanup, and formulas used in accounting an
 📁 **Excel Files:** 
 
 
-- freight_pivot_table.xlsx | Used Pivot Table to show total freight expense by carrier from consolidated freight invoice
+- freight_pivot_table.xlsx | Used Pivot Table to summarize total freight expense by carrier for monthly reporting
  
-- freight_glcodecheck_vlookup.xlsm | Used VLOOKUP macro to check freight invoice for invalid GL codes before upload to ERP
+- freight_glcodecheck_vlookup.xlsm | Used a VLOOKUP based macro check to identify nvalid GL codes before ERP upload
 
-- freight_je_upload_template.xlsm | Used JE Upload Macro Form to upload freight expense accrual data to ERP system for accounting close
+- freight_je_upload_template.xlsm | Built a JE Upload Macro Template to streamline freight accrual posting during accounting close
 
 
 ---
