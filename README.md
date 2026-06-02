@@ -37,6 +37,9 @@ This repository shows the freight invoice analysis process used to validate gene
 
 📁 **Power BI Files:**  
 
+This freight spend analysis data comes from one consolidated freight invoice for the week of May 21, 2010 for a large battery manufacturing company that later closed. 
+
+
 - freight_analysis.pbix  |  Power Query, Data Modeling, Dashboards
 - weekly_freight_cost_overview.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_overview.png)
 - weekly_freight_cost_drivers.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_drivers.png)
