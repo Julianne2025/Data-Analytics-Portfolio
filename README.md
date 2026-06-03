@@ -43,9 +43,9 @@ This freight spend data comes from one large consolidated freight invoice for th
 
 The original consolidated freight invoice csv file was downloaded weekly from the website of the freight invoice company that audited the invoices and paid the carriers in 2010.  At that time, the invoice was loaded into Excel and VBA macros were used to correct GL codes.  Now this invoice and chart of accounts data are imported into Power BI from SQL Server for demostration purposes.
 
-Business Q&A:  Freight KPIs, Freight spend by Top 20 carriers, Top 20 shipping facilities, Top 20 receiving facilities, Top 20 branch locations, Top 20 GL freight expense codes.
+Business Q&A:  Freight KPIs, Freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top 20 GL freight expense codes, cost per mile, cost per pound.
 
-Business Problems:  Weekly freight invoice had wrong GL codes due to moving or closing facilities or missing codes.  Freight spend always exceeded budget.
+Business Problems:  Weekly freight invoice had wrong GL codes due to moving or closing facilities or missing codes.  Freight spend always exceeded budget.  Monthly financial reports were done after accounting close.
 
 
 - freight_analysis.pbix  
