@@ -22,8 +22,8 @@ This portfolio shows the freight invoice analysis process used to validate gener
 🧰 Tools Used  |  Skills Used
 
 -	SQL Server 2022  |  SQL Queries of Freight Analytics database
--	Excel |  Pivot Table & Pivot Chart, VLOOKUP Macro, JE Upload Macro Template
--	Power BI |  Power Query, Data Modeling, Dashboards
+-	Excel |  PivotTable & PivotChart, PowerPivot, Vlookup Macro, JE Upload Macro Template
+-	Power BI |  Power Query, Data Modeling, DAX, Dashboards
 
 🔎 Business Objectives and User Friendly Reports
 
