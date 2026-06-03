@@ -41,7 +41,7 @@ Freight Spend Analysis
 
 This freight spend data comes from one large consolidated freight invoice for the week of May 21, 2010 for a large battery manufacturing company that later closed.  
 
-The consolidated freight invoice csv file was downloaded weekly from the website of the freight invoice company that audited and paid the carriers.  The invoice and chart of accounts data was imported into Power BI from SQL Server.
+The original consolidated freight invoice csv file was downloaded weekly from the website of the freight invoice company that audited the invoices and paid the carriers in 2010.  At that time, the invoice was loaded into Excel and VBA macros were used to correct GL codes.  Now this invoice and chart of accounts data are imported into Power BI from SQL Server.
 
 Business Q&A:  Freight KPIs, Freight spend by Top 20 carriers, Top 20 shipping facilities, Top 20 receiving facilities, Top 20 branch locations, Top 20 GL freight expense codes.
 
@@ -61,11 +61,11 @@ Profit & Loss Financial Statement Analysis:
 
 This profit and loss data is for FY2008 and the prior year for a large battery manufacturing company that later closed.  
 
-The data was exported from the company JDE ERP system.  The profit and loss data was imported into Power BI from Excel spreadsheets.
+The data was exported from the company JDE ERP system in 2008.  The profit and loss data are imported into Power BI from Excel spreadsheets.
 
 Business Q&A:  KPIs, FY2008 Autual vs Prior Year Actual.
 
-Business Problems:
+Business Problems:  Performance tracking.
 
 
 
