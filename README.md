@@ -45,7 +45,7 @@ The original consolidated freight invoice csv file was downloaded weekly from th
 
 Business Q&A:  Freight KPIs, Freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top 20 GL freight expense codes, cost per mile, cost per pound.
 
-Business Problems:  Weekly freight invoice had wrong GL codes due to moving or closing facilities or missing codes.  Freight spend always exceeded budget.  Monthly financial reports were done after accounting close.
+Business Problems:  Weekly freight invoice had wrong GL codes due to moving or closing facilities or missing codes.  Freight spend always exceeded budget.
 
 
 - freight_analysis.pbix  
@@ -65,7 +65,7 @@ The data was exported from the company JDE ERP system in 2008.  Now the profit a
 
 Business Q&A:  KPIs, FY2008 Autual vs Prior Year Actual.
 
-Business Problems:  Performance tracking.
+Business Problems:  Performance tracking.  Monthly financial reports were done after accounting close not in real time.
 
 
 
