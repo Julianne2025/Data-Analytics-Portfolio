@@ -15,8 +15,8 @@ Also, I use **Power BI and SQL Server** to build stronger data analysis, reporti
 
 
 
-### 📈 Freight Analysis
-This repository shows the freight invoice analysis process used to validate general ledger coding and analyze carrier spend.  This portfolio includes SQL scripts, Excel ETL processes, and Power BI dashboards demonstrating analytical and reporting skills.
+### 📈 Freight Analysis and Profit & Loss Analysis
+This portfolio shows the freight invoice analysis process used to validate general ledger coding and analyze carrier spend including SQL scripts, Excel ETL processes, and Power BI dashboards demonstrating analytical and reporting skills.  A fiscal year profit and loss statement is also included to analyze overall company performance.
 
 
 🧰 Tools Used  |  Skills Used
