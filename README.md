@@ -39,7 +39,13 @@ This repository shows the freight invoice analysis process used to validate gene
 
 This freight spend data comes from one large consolidated freight invoice for the week of May 21, 2010 for a large battery manufacturing company that later closed.  
 
+The consolidated freight invoice csv file was downloaded weekly from the website of the freight invoice company that audited and paid the carriers.  
 The invoice and chart of accounts data was imported into Power BI from SQL Server.
+
+Business Q&A:  Freight KPIs, Freight spend by Top 20 carriers, Top 20 shipping facilities, Top 20 receiving facilities, Top 20 branch locations, Top 20 GL freight expense codes.
+
+Business Problems:  Weekly freight invoice had wrong GL codes due to moving or closing facilities or missing codes.  Freight spend always exceeded budget.
+
 
 - freight_analysis.pbix  
 - weekly_freight_cost_overview.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_overview.png)
@@ -49,7 +55,13 @@ The invoice and chart of accounts data was imported into Power BI from SQL Serve
 
 This profit and loss data is for FY2008 and the prior year for a large battery manufacturing company that later closed.  
 
-The profit and loss data was imported into Power BI from Excel spreadsheets.
+The data was exported from the company JDE ERP system.  The profit and loss data was imported into Power BI from Excel spreadsheets.
+
+Business Q&A:  KPIs, Autual vs Budget vs Prior Year.
+
+Business Problems:
+
+
 
 - profit_loss.pbix
 - profit_loss_totals.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_totals.png)
