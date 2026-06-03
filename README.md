@@ -37,7 +37,7 @@ This portfolio shows the freight invoice analysis process used to validate gener
 
 📁 **Power BI Files:**  
 
-Freight Spend Analysis
+***Freight Spend Analysis***
 
 This freight spend data comes from one large consolidated freight invoice for the week of May 21, 2010 for a large battery manufacturing company that later closed.  
 
@@ -57,7 +57,7 @@ Business Problems:  Weekly freight invoice had wrong GL codes due to moving or c
 ---
 
 
-Profit & Loss Financial Statement Analysis:
+***Profit & Loss Financial Statement Analysis***
 
 This profit and loss data is for FY2008 and the prior year for a large battery manufacturing company that later closed.  
 
@@ -65,7 +65,7 @@ The data was exported from the company JDE ERP system in 2008.  Now the profit a
 
 Business Q&A:  KPIs, FY2008 Autual vs Prior Year Actual.
 
-Business Problems:  Performance tracking.  Monthly financial reports were done after accounting close not in real time.
+Business Problems:  Lack of performance tracking.  Financial reports were provided after monthly accounting close.  Financial data was not in real time.
 
 
 
