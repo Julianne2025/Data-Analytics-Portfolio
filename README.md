@@ -65,7 +65,7 @@ The data was exported from the company JDE ERP system in 2008.  Now the profit a
 
 ***Business Q&A***:  KPIs, FY2008 Actual vs Prior Year Actual.
 
-***Business Problems***:  Lack of performance tracking.  Financial reports were provided after monthly accounting close so no financial data was in real time.
+***Business Problems***:  Lack of performance analysis and tracking.  Financial reports were not provided until after monthly accounting close.
 
 
 
