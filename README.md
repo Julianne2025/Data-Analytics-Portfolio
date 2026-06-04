@@ -23,7 +23,7 @@ This portfolio shows the freight invoice analysis process used to validate gener
 
 -	SQL Server 2022  |  SQL Queries of Freight Analytics database
 -	Excel |  PivotTable & PivotChart, PowerPivot, Vlookup Macro, JE Upload Macro Template
--	Power BI |  Power Query, Data Modeling, DAX, Dashboards
+-	Power BI |  Power Query, Data Modeling, DAX Measures, Dashboards
 
 🔎 Business Objectives and User Friendly Reports
 
@@ -43,7 +43,7 @@ This freight spend data comes from one large consolidated freight invoice for th
 
 The original consolidated freight invoice csv file was downloaded weekly from the website of the freight invoice company that audited the invoices and paid the carriers in 2010.  At that time, the invoice was loaded into Excel and VBA macros were used to correct GL codes then that data was uploaded into the JDE ERP system.  Now this invoice and chart of accounts data are imported into Power BI from SQL Server for demostration purposes.
 
-Business Q&A:  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expense codes, cost per mile, cost per pound.
+Business Q&A:  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, cost per mile, cost per pound.
 
 Business Problems:  Weekly freight invoice had wrong GL codes due to moving or closing facilities or missing codeS.  Freight spend always exceeded budget.  Lack of timely freight spend analysis.
 
@@ -63,7 +63,7 @@ This profit and loss data is for FY2008 and the prior year for a large battery m
 
 The data was exported from the company JDE ERP system in 2008.  Now the profit and loss data are imported into Power BI from Excel spreadsheets for demostration purposes.
 
-Business Q&A:  KPIs, FY2008 Autual vs Prior Year Actual.
+Business Q&A:  KPIs, FY2008 Actual vs Prior Year Actual.
 
 Business Problems:  Lack of performance tracking.  Financial reports were provided after monthly accounting close so no financial data was in real time.
 
