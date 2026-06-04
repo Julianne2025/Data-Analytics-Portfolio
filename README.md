@@ -45,7 +45,7 @@ The original consolidated freight invoice csv file was downloaded weekly from th
 
 ***Business Q&A***:  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
 
-***Business Problems***:  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes.  Freight spend always exceeded budget.  Lack of timely freight spend analysis.
+***Business Problems***:  Freight spend always exceeded budget.  Lack of timely freight spend analysis.  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes. 
 
  
 - weekly_freight_cost_overview.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_overview_invoice_D2L052126.png)
@@ -94,9 +94,9 @@ The data was exported from the company JDE ERP system in 2008.  Now the profit a
 📁 **Excel Files:** 
 
 
-- freight_pivot_table.xlsx | Used Pivot Table to summarize total freight expense by carrier for monthly reporting
+- freight_pivot_table.xlsx | Used PivotTable to summarize total freight expense by carrier for monthly reporting
  
-- freight_glcodecheck_vlookup.xlsm | Used a VLOOKUP based macro check to identify invalid GL codes before ERP upload
+- freight_glcodecheck_vlookup.xlsm | Used a Vlookup based macro check to identify invalid GL codes before ERP upload
 
 - freight_je_upload_template.xlsm | Built a JE Upload Macro Template to streamline freight accrual posting during accounting close
 
