@@ -64,7 +64,7 @@ This profit and loss data is for FY2008 and the prior year FY2007 for a large ba
 
 The original data was exported from the company JDE ERP system in 2008.  Now the profit and loss data are imported into Power BI from Excel spreadsheets for demostration purposes.
 
-***Business Q&A***:  KPIs, FY2008 Actual vs Prior Year Actual.
+***Business Q&A***:  KPIs, FY2008 Actual vs Prior Year FY2007 Actual.
 
 ***Business Problems***:  Lack of performance analysis and tracking.  Financial reports were not provided until after monthly accounting close.  Data is from profit and loss financial statements that did not include COGS detail or budget data.
 
