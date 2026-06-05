@@ -62,7 +62,7 @@ The original consolidated freight invoice csv file was downloaded weekly from th
 
 This profit and loss data is for FY2008 and the prior year FY2007 for a large battery manufacturing company that later closed.  Fiscal year began on April 1.
 
-The data was exported from the company JDE ERP system in 2008.  Now the profit and loss data are imported into Power BI from Excel spreadsheets for demostration purposes.
+The original data was exported from the company JDE ERP system in 2008.  Now the profit and loss data are imported into Power BI from Excel spreadsheets for demostration purposes.
 
 ***Business Q&A***:  KPIs, FY2008 Actual vs Prior Year Actual.
 
