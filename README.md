@@ -60,7 +60,7 @@ The original consolidated freight invoice csv file was downloaded weekly from th
 
 ***Profit & Loss Financial Statement Analysis***
 
-This profit and loss data is for FY2008 and the prior year for a large battery manufacturing company that later closed.  
+This profit and loss data is for FY2008 and the prior year for a large battery manufacturing company that later closed.  Fiscal year began on April 1.
 
 The data was exported from the company JDE ERP system in 2008.  Now the profit and loss data are imported into Power BI from Excel spreadsheets for demostration purposes.
 
@@ -70,7 +70,6 @@ The data was exported from the company JDE ERP system in 2008.  Now the profit a
 
 
 
-- profit_loss.pbix
 - profit_loss_totals.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_totals.png)
 - profit_loss_trends.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_trends.png)
 
