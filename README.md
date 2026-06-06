@@ -41,11 +41,11 @@ This portfolio shows the freight invoice analysis process used to validate gener
 
 This freight spend data comes from one large consolidated freight invoice for the week of May 21, 2010 for a large battery manufacturing company that later closed.  
 
-The original consolidated freight invoice csv file was downloaded weekly from the website of the freight invoice company that audited the invoices and paid the carriers in 2010.  At that time, the invoice was loaded into Excel and VBA macros were used to correct GL codes then that data was uploaded into the JDE ERP system.  Now this invoice and chart of accounts data are imported into Power BI from SQL Server for demostration purposes.
+The original consolidated freight invoice csv file was downloaded weekly from the website of the freight invoice company that audited the invoices and paid the carriers in 2010.  At that time, the invoice was loaded into Excel and VBA macros were used to correct GL codes then that data was uploaded into the JDE ERP system.  Now this invoice and chart of accounts data are imported into Power BI from SQL Server for demostration purposes.  DAX Measures table and Date table are included.
 
 ***Business Q&A***:  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
 
-***Business Problems***:  Freight spend always exceeds budget.  Lack of timely freight spend analysis.  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes. Data is from one consolidated invoice for one week so no trend data or budget data is available.
+***Business Problems***:  Freight spend exceeded budget.  Lack of timely freight spend analysis.  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes. Data is from one consolidated invoice for one week so no trend data or budget data is available.
 
  
 - weekly_freight_cost_overview.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_overview_invoice_D2L052126.png)
@@ -54,19 +54,18 @@ The original consolidated freight invoice csv file was downloaded weekly from th
 - weekly_freight_insights.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_insights_invoice_D2L052126.png)
 
 
-
 ---
 
 
 ***Profit & Loss Financial Statement Analysis***
 
-This profit and loss data is for FY2008 and the prior year FY2007 for a large battery manufacturing company that later closed.  Fiscal year began on April 1.
+This profit and loss Financial data is for FY2008 for a large battery manufacturing company that later closed.  Fiscal year began on April 1.  Monthly, quarterly, and total data for Actual FY2008 is included.  Actual FY2007 Totals are included for variance analysis.  No budget data or COGS detail is available.  
 
-The original data was exported from the company JDE ERP system in 2008.  Now the profit and loss data are imported into Power BI from Excel spreadsheets for demostration purposes.
+The original data was exported from the company JDE ERP system in 2008.  Financial reports were provided after monthly accounting close.  Now the profit and loss data are imported into Power BI from Excel spreadsheets for demostration purposes.  DAX Measures table and Date table included.
 
-***Business Q&A***:  KPIs, FY2008 Actual vs Prior Year FY2007 Actual.
+***Business Q&A***:  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 Actual, Monthly FY2008 trends.  
 
-***Business Problems***:  Lack of performance analysis and tracking.  Financial reports were not provided until after monthly accounting close.  Data is from profit and loss financial statements that did not include COGS detail or budget data.
+***Business Problems***:  Lack of performance analysis and tracking.  
 
 
 
