@@ -69,8 +69,8 @@ The original data was exported from the company JDE ERP system in 2008.  Financi
 
 
 
-- profit_loss_totals.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_totals.png)
-- profit_loss_trends.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_trends.png)
+- profit_loss_kpis_FY2008.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_kpis_FY2008.png)
+- profit_loss_insights_FY2008.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_insights_FY2008.png)
 
 
 ---
