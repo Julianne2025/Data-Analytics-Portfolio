@@ -63,9 +63,9 @@ This Profit and Loss Financial data is for FY2008 for a large battery manufactur
 
 The original data was exported from the company JDE ERP system in 2008.  Financial reports were provided after monthly accounting close.  Now the profit and loss data are imported into Power BI from Excel spreadsheets for demostration purposes.  Fact and COA tables are used.  Dashboards are published to my Power BI Service account.
 
-***Business Q&A***:  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 Actual, Monthly FY2008 trends.  
+***Business Q&A***:  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 Actual.
 
-***Business Problems***:  Lack of performance analysis and tracking.  
+***Business Problems***:  Lack of timely performance analysis and tracking.  
 
 
 
