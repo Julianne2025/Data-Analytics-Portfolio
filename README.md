@@ -57,11 +57,11 @@ The original consolidated freight invoice csv file was downloaded weekly from th
 ---
 
 
-***Profit & Loss Financial Statement Analysis  (Dynamic Modeling) ***
+***Profit & Loss Financial Statement Analysis (Dynamic Modeling)***
 
-This Profit and Loss Financial data is for FY2008 for a large battery manufacturing company that later closed.  Fiscal year began on April 1.  This is a dynamic model of data analysis.  Monthly, quarterly, and total data for Actual FY2008 is included.  Actual FY2007 Totals are included for YOY variance analysis.  No budget data or COGS detail is available.  
+This Profit and Loss Financial data is for FY2008 for a large battery manufacturing company that later closed.  Fiscal year began on April 1.  This is a dynamic model of data analysis.  Monthly, quarterly, and total trend data for Actual FY2008 is included.  Actual FY2007 Totals are included for YOY variance analysis.  No budget data or COGS detail is available.  
 
-The original data was exported from the company JDE ERP system in 2008.  Financial reports were provided after monthly accounting close.  Now the profit and loss data are imported into Power BI from Excel spreadsheets for demostration purposes.  Fact and COA tables are used.  Dashboards are published to my Power BI Service account.
+The original data was exported from the company JDE ERP system in 2008.  Financial reports were provided after monthly accounting close.  Now the profit and loss data are imported into Power BI from Excel spreadsheets for demostration purposes.  Dashboards are published to my Power BI Service account.
 
 ***Business Q&A***:  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY Actual.  Trend analysis.
 
