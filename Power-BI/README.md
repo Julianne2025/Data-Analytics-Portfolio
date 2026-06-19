@@ -4,10 +4,12 @@ This folder contains Power BI reports created for skills demonstration.
 
 📁 **Power BI Files:**  
 
-- freight_analysis.pbix  |  Power Query, Data Modeling, Dashboard
-- weekly_freight_cost_overview.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_overview.png)
-- weekly_freight_cost_drivers.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_drivers.png)
-- weekly_freight_kpis.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_kpis.png)
+- weekly_freight_analysis_invoice_D2L052110.pbix
+- weekly_freight_cost_overview.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_overview_invoice_D2L052126.png)
+- weekly_freight_cost_drivers.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_drivers_invoice_D2L052126.png)
+- weekly_freight_kpis.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_kpis_invoice_D2L052126.png)
+- weekly_freight_insights.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_insights_invoice_D2L052126.png)
+
 
 ---
 
