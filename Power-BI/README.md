@@ -11,10 +11,10 @@ This folder contains Power BI reports created for skills demonstration.
 
 ---
 
-- profit_loss.pbix
-- profit_loss_totals.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_totals.png)
-- profit_loss_trends.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_trends.png)
-
+- profit_loss_analysis_FY2008.pbix
+- profit_loss_analysis_FY2008_kpis.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_analysis_FY2008_kpis.png)
+- profit_loss_analysis_FY2008_monthly_trends.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_analysis_FY2008_monthly_trends.png)
+- profit_loss_analysis_FY2008_insights.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_analysis_FY2008_insights.png)
 
 ---
 
