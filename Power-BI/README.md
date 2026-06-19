@@ -1,6 +1,5 @@
 ## Power BI Portfolio
 
-This folder contains Power BI reports created for skills demonstration.
 
 📁 **Power BI Files:**  
 
