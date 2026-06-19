@@ -26,7 +26,8 @@
 #### 🚴 Maven Cycles
 **Description:** Analyzed sales data for a bicycle company
 
-**Business Questions:** Top products, trends, top-performing regions  
+**Business Questions:** Top products, trends, top-performing regions
+
 **Skills:** Power Query, DAX, dashboards
 
 **Files:**  
@@ -40,7 +41,8 @@
 #### 🧸 Maven Toy Emporium
 **Description:** Analyzed a toy retailer sales and inventory
 
-**Business Questions:** Top products, inventory vs sales, trends  
+**Business Questions:** Top products, inventory vs sales, trends
+
 **Skills:** Power Query, DAX, dashboards
 
 **Files:**  
