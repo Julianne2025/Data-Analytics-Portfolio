@@ -24,7 +24,7 @@
 
 
 #### 🚴 Maven Cycles
-**Description:** Analyzed sales data for a fictional bicycle company; demonstrates Power BI skills.  
+**Description:** Analyzed sales data for a bicycle company
 **Business Questions:** Top products, trends, top-performing regions  
 **Skills:** Power Query, DAX, dashboards
 
@@ -37,7 +37,7 @@
 ---
 
 #### 🧸 Maven Toy Emporium
-**Description:** Analyzed a fictional toy retailer sales and inventory; demonstrates Power BI skills.  
+**Description:** Analyzed a toy retailer sales and inventory
 **Business Questions:** Top products, inventory vs sales, trends  
 **Skills:** Power Query, DAX, dashboards
 
