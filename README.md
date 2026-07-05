@@ -43,7 +43,7 @@ This freight spend data comes from one large consolidated freight invoice for th
 
 The original consolidated freight invoice csv file was downloaded weekly from the website of the freight invoice company that audited the invoices and paid the carriers in 2010.  At that time, the invoice was loaded into Excel and VBA macros were used to correct GL codes then that data was uploaded into the ERP system.  
 
-Now this invoice and chart of accounts data are imported into Power BI from SQL Server for demostration purposes.  Fact and COA tables are used. DAX measures were created.  Dashboards are published to my Power BI Service account.
+Now this invoice and chart of accounts data are imported into Power BI from SQL Server for demostration purposes.  Fact and COA tables are used. DAX measures are created.  Dashboards are published to my Power BI Service account.
 
 ***Business Q&A***:  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
 
