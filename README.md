@@ -41,7 +41,9 @@ This portfolio shows the freight invoice analysis process used to validate gener
 
 This freight spend data comes from one large consolidated freight invoice for the week of May 21, 2010 for a large battery manufacturing company that later closed.
 
-The original consolidated freight invoice csv file was downloaded weekly from the website of the freight invoice company that audited the invoices and paid the carriers in 2010.  At that time, the invoice was loaded into Excel and VBA macros were used to correct GL codes then that data was uploaded into the ERP system.  Now this invoice and chart of accounts data are imported into Power BI from SQL Server for demostration purposes.  Fact and COA tables are used. DAX measures were created.  Dashboards are published to my Power BI Service account.
+The original consolidated freight invoice csv file was downloaded weekly from the website of the freight invoice company that audited the invoices and paid the carriers in 2010.  At that time, the invoice was loaded into Excel and VBA macros were used to correct GL codes then that data was uploaded into the ERP system.  
+
+Now this invoice and chart of accounts data are imported into Power BI from SQL Server for demostration purposes.  Fact and COA tables are used. DAX measures were created.  Dashboards are published to my Power BI Service account.
 
 ***Business Q&A***:  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
 
@@ -59,9 +61,12 @@ The original consolidated freight invoice csv file was downloaded weekly from th
 
 ***Profit & Loss Financial Statement Analysis***
 
-This Profit and Loss financial data is for FY2008 for a large battery manufacturing company that later closed.  Fiscal year began on April 1.  Monthly, quarterly, and total trend data for Actual FY2008 is included.  Actual FY2007 Totals are included for YoY variance analysis.  No budget data or COGS detail is available.  
+This Profit and Loss financial data is for FY2008 for a large battery manufacturing company that later closed.  Fiscal year began on April 1. 
 
-The original data was exported from the company ERP system to Excel in 2008.  Financial reports were provided after monthly accounting close.  Now this profit and loss data is imported into Power BI from Excel for demostration purposes.  Dashboards are published to my Power BI Service account.
+The original data was exported from the company ERP system to Excel in 2008.  Financial reports were provided after monthly accounting close.  
+
+Now this profit and loss data is imported into Power BI from Excel for demostration purposes.   Monthly, quarterly, and total trend data for Actual FY2008 is included.  Actual FY2007 Totals are included for YoY variance analysis.  No budget data or COGS detail is available.  
+Dashboards are published to my Power BI Service account.
 
 ***Business Q&A***:  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY Actual, Monthly and quarterly trend analysis.
 
