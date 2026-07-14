@@ -65,7 +65,7 @@ This Profit and Loss financial data is for FY2008 for a large battery manufactur
 
 The original data was exported from the company ERP system to Excel in 2008.  Financial reports were provided after monthly accounting close.  
 
-Now this profit and loss data is imported into Power BI from Excel for demostration purposes.   Monthly, quarterly, and total trend data for Actual FY2008 is included.  Actual FY2007 Totals are included for YoY variance analysis.  No budget data or COGS detail is available.  Dashboards are published to my Power BI Service account.
+Now this profit and loss data is imported into Power BI from Excel for demonstration purposes.   Monthly, quarterly, and total trend data for Actual FY2008 is included.  Actual FY2007 Totals are included for YoY variance analysis.  No budget data or COGS detail is available.  Dashboards are published to my Power BI Service account.
 
 ***Business Q&A***:  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY Actual, Monthly and quarterly trend analysis.
 
