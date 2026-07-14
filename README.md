@@ -7,7 +7,7 @@ Also, I use **Power BI and SQL Server** to build stronger data analysis, reporti
 
 
 
-### 📉 BI / Financial Analysis Experience
+### 📉 Financial Analysis Experience
 
 -	Automated data validation and reporting processes in ERP systems, reducing manual corrections and increasing accuracy.
 -	Designed, documented, and maintained SQL scripts and queries for data extraction, transformation, and reporting purposes.
