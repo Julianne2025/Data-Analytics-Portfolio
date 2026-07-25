@@ -1,8 +1,8 @@
 ## 📊 Data Analytics Portfolio – Julie Lorenzen - Financial Analyst
-Portfolio of data analysis work using **Excel, Power BI and SQL Server** focused on data analysis, dashboards, and business insights.
+Portfolio of data analysis work using **Power BI, SQL Server and Excel** focused on data analysis, dashboards, and business insights.
 
 ### ⚙️ About Me
-I have a background in **accounting and finance**, with many years of experience using **Excel**.  
+I have a background in **accounting and finance** with extensive experience using **Excel**.  
 Also, I use **Power BI and SQL Server** to build stronger data analysis, reporting, and visualization.  
 
 
@@ -16,7 +16,7 @@ Also, I use **Power BI and SQL Server** to build stronger data analysis, reporti
 
 
 ### 📈 Freight Analysis and Profit & Loss Analysis
-This portfolio shows the freight invoice analysis process used to validate general ledger coding and analyze carrier spend including SQL scripts, Excel ETL processes, and Power BI dashboards demonstrating analytical and reporting skills.  A fiscal year profit and loss statement is also included to analyze overall company performance.
+This portfolio shows the freight invoice analysis process used to validate general ledger coding and analyze carrier spend including SQL scripts, Excel ETL processes, and Power BI dashboards demonstrating analytical and reporting skills.  A fiscal year profit and loss statement is included to analyze overall company performance.
 
 
 🧰 Tools Used  |  Skills Used
