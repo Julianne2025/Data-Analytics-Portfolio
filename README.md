@@ -128,7 +128,6 @@ freight_pivot_table.png ![freight_analytics](https://github.com/Julianne2025/Dat
 freight_glcodecheck_vlookup.png ![freight_glcodecheck_vlookup.png](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Excel/freight_glcodecheck_vlookup.png)
 
 
----
 
 
 freight_glcodecheck_vlookup_macro.png ![freight_glcodecheck_vlookup.png](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Excel/freight_glcodecheck_vlookup_macro.png)
@@ -140,11 +139,10 @@ freight_glcodecheck_vlookup_macro.png ![freight_glcodecheck_vlookup.png](https:/
 freight_je_upload_template.png ![freight_je-upload_template](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Excel/freight_je_upload_template.png)
 
  
----
 
 freight_je_upload_file.png ![freight_je-upload_template](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Excel/freight_je_upload_file.png)
 
----
+
 
 freight_je_upload_export_vba_code.png ![freight_je-upload_template](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Excel/freight_je_upload_export_vba_code.png)
 
