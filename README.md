@@ -104,9 +104,9 @@ Now this profit and loss data is imported into Power BI from Excel for demonstra
 
 ---
  
-- freight_glcodecheck_vlookup.xlsm | Built a Vlookup based macro check to identify invalid freight invoice GL codes before ERP upload (output)
+- freight_glcodecheck_vlookup.xlsm | Built a Vlookup macro check to identify invalid freight invoice GL codes before ERP upload (output)
 
-- freight_glcodecheck_vlookup_macro.xlsm | Vlookup based VBA macro code to identify invalid freight invoice GL codes before ERP upload (VBA code)
+- freight_glcodecheck_vlookup_macro.xlsm | Vlookup VBA macro code to identify invalid freight invoice GL codes before ERP upload (VBA code)
 
 ---
 
@@ -114,7 +114,7 @@ Now this profit and loss data is imported into Power BI from Excel for demonstra
 
 - freight_je_upload_file.xlsm | Created VBA text file exported to ERP to streamline freight accrual posting during accounting close (output)
 
-- freight_je_upload_export_vba_code.xlsm | VBA code for template to export freight accrual posting to ERP during accounting close  (VBA code)
+- freight_je_upload_export_vba_code.xlsm | Code for template to export freight accrual posting to ERP during accounting close (VBA code)
 
 ---
 
