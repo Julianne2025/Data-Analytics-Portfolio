@@ -100,21 +100,21 @@ Now this profit and loss data is imported into Power BI from Excel for demonstra
 📁 **Excel Files:** 
 
 
-- freight_pivot_table.xlsx | Used PivotTable to summarize total freight expense by carrier for monthly reporting
+- freight_pivot_table.xlsx | Created PivotTable and PivotChart to summarize total freight expense by carrier for monthly reporting
 
 ---
  
-- freight_glcodecheck_vlookup.xlsm | Used a Vlookup based macro check to identify invalid GL codes before ERP upload
+- freight_glcodecheck_vlookup.xlsm | Built a Vlookup based macro check to identify invalid freight invoice GL codes before ERP upload (output)
 
-- freight_glcodecheck_vlookup_macro.xlsm | Created a Vlookup based VBA macro check to identify invalid GL codes before ERP upload
+- freight_glcodecheck_vlookup_macro.xlsm | Vlookup based VBA macro code to identify invalid freight invoice GL codes before ERP upload (VBA code)
 
 ---
 
-- freight_je_upload_template.xlsm | Built a JE Upload Macro Template to streamline freight accrual posting during accounting close
+- freight_je_upload_template.xlsm | Built a JE Upload Macro Template to streamline freight accrual posting during accounting close (source)
 
-- freight_je_upload_file.xlsm | Created VBA text file exported to ERP to streamline freight accrual posting during accounting close
+- freight_je_upload_file.xlsm | Created VBA text file exported to ERP to streamline freight accrual posting during accounting close (output)
 
-- freight_je_upload_export_vba_code.xlsm | Created VBA code for template to export freight accrual posting to ERP during accounting close
+- freight_je_upload_export_vba_code.xlsm | VBA code for template to export freight accrual posting to ERP during accounting close  (VBA code)
 
 ---
 
