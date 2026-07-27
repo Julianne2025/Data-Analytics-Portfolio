@@ -97,10 +97,12 @@ Now this profit and loss data is imported into Power BI from Excel for demonstra
 
 - freight_analysis3.sql  |  Created a VIEW of freight GL codes query for export to Excel or Power BI
 
+- freight_analysis4.sql  |  Used SELECT to query TOP 12 shipping and receiving facilities by total freight$
+
 - freight_analysis1.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis1.png)
 - freight_analysis2.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis2.png)
 - freight_analysis3.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis3.png)
-
+- freight_analysis4.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis4.png)
 
 ---
 
