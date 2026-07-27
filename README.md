@@ -114,7 +114,7 @@ Now this profit and loss data is imported into Power BI from Excel for demonstra
 Also, Excel VBA code is used to create an upload template to export journal entries as text to the ERP system instead of repeatedly using the manual copy and paste to a limited row ERP screen.
 
 
-- freight_pivot_table.xlsx | Created PivotTable and PivotChart to summarize total freight expense by carrier for monthly reporting
+- freight_pivot_table.xlsx | Created PivotTable and PivotChart to summarize total weekly freight expense by carrier
 
 ---
  
