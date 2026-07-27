@@ -101,7 +101,7 @@ The large consolidated freight invoice and chart of accounts are imported into S
 
 - freight_analysis4.sql  |  Used SELECT to query TOP 12 shipping and receiving facilities by total freight$
 
-- freight_analysis5.sql  |  Used SELECT to query TOP 12 shipping and receiving facilities by total freight$
+- freight_analysis5.sql  |  Used SELECT to get total freight$ by GL code, Description and Branch Facility
 
 
 - freight_analysis1.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis1.png)
