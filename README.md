@@ -86,6 +86,11 @@ Now this profit and loss data is imported into Power BI from Excel for demonstra
 
 📁 **SQL Server 2022 Files:**
 
+***Business Q&A***:  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
+
+***Business Problems***:  Lack of timely freight spend analysis.  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes. Data is from one consolidated invoice for one week so no trend data or budget data is available.
+
+
 - freight_analysis1.sql  |  Used SELECT and JOIN to check GL codes and get total freight by carrier and GL code
 
 - freight_analysis2.sql  |  Used SELECT to rank freight carriers and get % total freight by carrier
@@ -101,6 +106,10 @@ Now this profit and loss data is imported into Power BI from Excel for demonstra
 
 
 📁 **Excel Files:** 
+
+***Business Q&A***:  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
+
+***Business Problems***:  Lack of timely freight spend analysis.  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes. Data is from one consolidated invoice for one week so no trend data or budget data is available.
 
 
 - freight_pivot_table.xlsx | Created PivotTable and PivotChart to summarize total freight expense by carrier for monthly reporting
