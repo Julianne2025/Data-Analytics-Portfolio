@@ -16,7 +16,7 @@ Also, I use **Power BI and SQL Server** to build stronger data analysis, reporti
 
 
 ### 📈 Freight Analysis and Profit & Loss Analysis
-This portfolio shows the freight invoice analysis process used to validate general ledger coding and analyze carrier spend including SQL scripts, Excel ETL processes, and Power BI dashboards demonstrating analytical and reporting skills.  A fiscal year profit and loss statement is included to analyze overall company performance.
+This portfolio shows the freight invoice analysis process used to validate general ledger coding and analyze carrier spend including SQL scripts, Excel ETL processes, and Power BI dashboards demonstrating analytical and reporting skills.  A fiscal year profit and loss statement is included to analyze overall company performance.  Also, Excel VBA code is used to create an upload template to export journal entries as text to the ERP system instead of repeatedly using the manual copy and paste to a limited row ERP screen.
 
 
 🧰 Tools Used  |  Skills Used
@@ -110,6 +110,8 @@ Now this profit and loss data is imported into Power BI from Excel for demonstra
 ***Business Q&A***:  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
 
 ***Business Problems***:  Lack of timely freight spend analysis.  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes. Data is from one consolidated invoice for one week so no trend data or budget data is available.
+
+Also, Excel VBA code is used to create an upload template to export journal entries as text to the ERP system instead of repeatedly using the manual copy and paste to a limited row ERP screen.
 
 
 - freight_pivot_table.xlsx | Created PivotTable and PivotChart to summarize total freight expense by carrier for monthly reporting
