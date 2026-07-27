@@ -93,7 +93,7 @@ Now this profit and loss data is imported into Power BI from Excel for demonstra
 
 - freight_analysis1.sql  |  Used SELECT and JOIN to get total freight$ by carrier, total freight$ by GL code, and to check for invalid GL codes
 
-- freight_analysis2.sql  |  Used SELECT to rank carriers by freight$ and freight% of total freight
+- freight_analysis2.sql  |  Used SELECT to RANK carriers by freight$ and freight% of total freight
 
 - freight_analysis3.sql  |  Created a VIEW of freight GL codes query for export to Excel or Power BI
 
