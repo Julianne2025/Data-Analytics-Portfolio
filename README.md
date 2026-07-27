@@ -101,10 +101,15 @@ The large consolidated freight invoice and chart of accounts are imported into S
 
 - freight_analysis4.sql  |  Used SELECT to query TOP 12 shipping and receiving facilities by total freight$
 
+- freight_analysis5.sql  |  Used SELECT to query TOP 12 shipping and receiving facilities by total freight$
+
+
 - freight_analysis1.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis1.png)
 - freight_analysis2.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis2.png)
 - freight_analysis3.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis3.png)
 - freight_analysis4.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis4.png)
+- freight_analysis5.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis5.png)
+
 
 ---
 
