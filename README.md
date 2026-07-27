@@ -91,7 +91,7 @@ Now this profit and loss data is imported into Power BI from Excel for demonstra
 ***Business Problems***:  Lack of timely freight spend analysis.  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes. Data is from one consolidated invoice for one week so no trend data or budget data is available.
 
 
-- freight_analysis1.sql  |  Used SELECT to get total freight$ by carrier, SELECT and LEFT JOIN to get total freight$ by GL code, SELECT and LEFT JOIN to check for invalid GL codes
+- freight_analysis1.sql  |  Used SELECT and LEFT JOIN to get total freight$ by carrier, to get total freight$ by GL code, and to check for invalid GL codes
 
 - freight_analysis2.sql  |  Used SELECT to rank carriers by freight$ and freight% of total freight
 
