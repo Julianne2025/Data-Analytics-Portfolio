@@ -1,10 +1,8 @@
 /*
 freight_analysis3
-Create a View for Export to Excel or Power BI
+Create a View of Query for Export to Excel or Power BI
 Julie Lorenzen
 */
-
--- Create a View of Valide GL Code Check Query
 
 USE FreightAnalytics
 GO
