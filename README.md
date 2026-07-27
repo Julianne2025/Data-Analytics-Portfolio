@@ -86,7 +86,7 @@ Now this profit and loss data is imported into Power BI from Excel for demonstra
 
 📁 **SQL Server 2022 Files:**
 
-The large consolidated freight invoice and chart of accounts are imported into SQL Server as tables so that this data can be used for queries for freight analysis.
+The large weekly consolidated freight invoice and chart of accounts are imported into SQL Server as tables so that this data can be used for queries for freight analysis.
 
 ***Business Q&A***:  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
 
