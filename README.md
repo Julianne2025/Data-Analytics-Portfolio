@@ -90,8 +90,11 @@ Now this profit and loss data is imported into Power BI from Excel for demonstra
 
 - freight_analysis2.sql  |  Used SELECT to rank freight carriers and get % total freight by carrier
 
+- freight_analysis3.sql  |  Created a VIEW of freight GL codes for export to Excel or Power BI
+
 - freight_analysis1.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis1.png)
 - freight_analysis2.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis2.png)
+- freight_analysis3.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis3.png)
 
 
 ---
