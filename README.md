@@ -103,13 +103,15 @@ The large weekly consolidated freight invoice and chart of accounts are imported
 
 - freight_analysis5.sql  |  Used SELECT and JOIN with WHERE to get total freight$ by each Branch Facility with GL code and description
 
+- freight_analysis6.sql  |  Used SELECT and  WHERE to find missing GL codes in consolidated freight invoice
+
 
 - freight_analysis1.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis1.png)
 - freight_analysis2.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis2.png)
 - freight_analysis3.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis3.png)
 - freight_analysis4.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis4.png)
 - freight_analysis5.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis5.png)
-
+- freight_analysis6.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis6.png)
 
 ---
 
