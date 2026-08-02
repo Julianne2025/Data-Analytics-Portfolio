@@ -93,7 +93,7 @@ The large weekly consolidated freight invoice and chart of accounts are imported
 ***Business Problems***:  Lack of timely freight spend analysis.  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes. Data is from one consolidated invoice for one week so no trend data or budget data is available.
 
 
-- freight_analysis1.sql  |  Used SELECT and JOIN to get total freight$ by carrier, total freight$ by GL code, and to check for invalid GL codes
+- freight_analysis1.sql  |  Used SELECT, JOIN  and SUM to get total freight$ by carrier, total freight$ by GL code, and to check for invalid GL codes
 
 - freight_analysis2.sql  |  Used SELECT to RANK carriers by freight$ and freight% of total freight
 
