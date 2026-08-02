@@ -101,7 +101,7 @@ The large weekly consolidated freight invoice and chart of accounts are imported
 
 - freight_analysis4.sql  |  Used SELECT and SUM to query TOP 12 shipping and TOP 12 receiving facilities by total freight$
 
-- freight_analysis5.sql  |  Used SELECT and JOIN with WHERE to get total freight$ by Branch Facility with GL code and description
+- freight_analysis5.sql  |  Used SELECT and JOIN with WHERE to get total freight$ by each Branch Facility with GL code and description
 
 
 - freight_analysis1.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis1.png)
