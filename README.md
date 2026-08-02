@@ -99,7 +99,7 @@ The large weekly consolidated freight invoice and chart of accounts are imported
 
 - freight_analysis3.sql  |  Created a VIEW of freight GL codes query for export to Excel or Power BI
 
-- freight_analysis4.sql  |  Used SELECT to query TOP 12 shipping and receiving facilities by total freight$
+- freight_analysis4.sql  |  Used SELECT and SUM to query TOP 12 shipping and TOP 12 receiving facilities by total freight$
 
 - freight_analysis5.sql  |  Used SELECT and JOIN to get total freight$ by GL code, Description and Branch Facility
 
