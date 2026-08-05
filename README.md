@@ -3,7 +3,7 @@ Portfolio of data analysis work using **Power BI, SQL Server and Excel** focused
 
 ### ⚙️ About Me
 I have a background in **accounting and finance** with extensive experience using **Excel**.  
-Also, I use **Power BI and SQL Server** to build stronger data analysis, reporting, and visualization.  
+I use **Power BI and SQL Server** to build strong data analysis, reporting, and visualization.  
 
 
 
