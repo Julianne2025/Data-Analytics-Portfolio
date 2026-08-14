@@ -40,7 +40,7 @@ This portfolio shows the freight invoice analysis process used to validate gener
 
 ***Freight Spend Analysis***
 
-This freight spend data comes from one large consolidated freight invoice that contained over 3500 freight invoices for the week of May 21, 2010 for a large battery manufacturing company that later closed.
+This freight spend data comes from one large consolidated freight invoice that contained over 3500 freight invoices for the week of May 21, 2010 for a large battery manufacturing company that later closed.  It was a publicly traded company.
 
 The original consolidated freight invoice csv file was downloaded weekly from the website of the freight invoice company that audited the invoices and paid the carriers in 2010.  At that time, the invoice was loaded into Excel and VBA macros were used to correct GL codes then that data was uploaded into the ERP system.  
 
@@ -62,7 +62,7 @@ Now this invoice and chart of accounts data are imported into Power BI from SQL 
 
 ***Profit & Loss Financial Statement Analysis***
 
-This Profit and Loss financial data is for FY2008 for a large battery manufacturing company that later closed.  Fiscal year began on April 1. 
+This Profit and Loss financial data is for FY2008 for a large battery manufacturing company that later closed.  Fiscal year began on April 1.  It was a publicly traded company.
 
 The original data was exported from the company ERP system to Excel in 2008.  Financial reports were provided after monthly accounting close.  
 
