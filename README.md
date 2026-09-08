@@ -68,8 +68,7 @@ Now I have imported this P&L data into Power BI from Excel for demonstration pur
 
 ***Business Q&A***:  What is the P&L analysis?  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY Actual, Monthly and quarterly trend analysis.
 
-***Business Problems***:  Lack of timely performance analysis and tracking.  Lack of awareness of weak cash flow, excess debt, expensive obligations, poor capital allocation, and excessive freight spend.
-
+***Business Problems***:  Lack of timely performance analysis and tracking.  Power BI would have been helpful in providing real time data.
 
 - profit_loss_analysis_FY2008.pbix
 - profit_loss_analysis_FY2008_kpis.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_analysis_FY2008_kpis.png)
