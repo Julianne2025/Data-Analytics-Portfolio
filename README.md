@@ -60,7 +60,7 @@ Now I have imported this invoice and chart of accounts tables into Power BI from
 
 ***Profit & Loss Financial Statement Analysis***
 
-This Profit and Loss financial data is for FY2008 for a large manufacturing company that later closed.  Fiscal year began on April 1. 
+This P&L financial data is for FY2008 for a large manufacturing company that later closed.  Fiscal year began on April 1. 
 
 The original data was exported from the company ERP system in 2008.  I prepared a KPI management package of financial reports in Excel each month after accounting close.  
 
