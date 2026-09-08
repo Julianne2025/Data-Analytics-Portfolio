@@ -117,7 +117,7 @@ The large weekly consolidated freight invoice and chart of accounts are imported
 
 ***Business Q&A***:  What is the total weekly freight expense by carrier?  Shown by Excel PivotTable.
 
-***Business Problems***:  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes that had to be corrected in Excel.
+***Business Problems***:  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes that had to be corrected in Excel by VBA.
 
 Also, Excel VBA code is used to create an upload template to export journal entries as text to the ERP system instead of repeatedly using the manual copy and paste to a limited row ERP screen.
 
