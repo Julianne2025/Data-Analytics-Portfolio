@@ -42,11 +42,11 @@ This freight spend data comes from one large weekly consolidated freight invoice
 
 The invoice data was loaded into Excel and I used VBA macros to correct GL codes before uploading that data into the ERP system.  
 
-Now I have imported this invoice and COA table into Power BI from SQL Server for demonstration purposes as fact and COA tables.  DAX measures are included.
+Now I have imported this invoice and COA table into Power BI from SQL Server for demonstration purposes as fact and COA tables.  DAX measures are included.  No trend or budget data is available.
 
 ***Business Q&A***:  What is the freight spend analysis?  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
 
-***Business Problems***:  Lack of timely freight spend analysis that is now provided with Power BI dashboards.  No trend or budget data is available.
+***Business Problems***:  Lack of timely freight spend analysis that is now provided with Power BI dashboards.  
 
 - weekly_freight_analysis_invoice_D2L052110.pbix
 - weekly_freight_cost_overview.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_overview_invoice_D2L052126.png)
