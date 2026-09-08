@@ -38,11 +38,11 @@ This portfolio shows the freight invoice analysis process used to validate gener
 
 ***Freight Spend Analysis***
 
-This freight spend data comes from one large consolidated freight invoice that contained over 3500 freight invoices for one week in 2010 for a large manufacturing company that later closed.
+This freight spend data comes from one large weekly consolidated freight invoice csv file that contained over 3500 freight invoices.
 
-The original consolidated freight invoice csv file was downloaded weekly from the website of a freight invoice company that audited the invoices and paid the carriers.  At that time, I loaded the invoice data into Excel and used VBA macros to correct GL codes before uploading that data into the ERP system.  
+The invoice data was loaded into Excel and I used VBA macros to correct GL codes before uploading that data into the ERP system.  
 
-Now I have imported this invoice and chart of accounts tables into Power BI from SQL Server for demonstration purposes as fact and COA tables.  DAX measures are included.  Dashboards are published to my Power BI Service account.
+Now I have imported this invoice and COA table into Power BI from SQL Server for demonstration purposes as fact and COA tables.  DAX measures are included.
 
 ***Business Q&A***:  What is the freight spend analysis?  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
 
@@ -60,11 +60,9 @@ Now I have imported this invoice and chart of accounts tables into Power BI from
 
 ***Profit & Loss Financial Statement Analysis***
 
-This P&L financial data is for FY2008 for a large manufacturing company that later closed.  Fiscal year began on April 1. 
+This P&L financial data was used to prepare a KPI management package of financial reports in Excel each month after accounting close.  
 
-The original data was exported from the company ERP system in 2008.  I prepared a KPI management package of financial reports in Excel each month after accounting close.  
-
-Now I have imported this P&L data into Power BI from Excel for demonstration purposes.   Monthly, quarterly, and total trend data for Actual FY2008 is included.  Actual FY2007 Totals are included for YoY variance analysis.  No budget data or COGS detail is available.  Dashboards are published to my Power BI Service account.
+Now I have imported this P&L data into Power BI from Excel for demonstration purposes.   Monthly, quarterly, and total trend data for Actual FY2008 is included.  Actual FY2007 Totals are included for YoY variance analysis.  No budget data or COGS detail is available. 
 
 ***Business Q&A***:  What is the P&L analysis?  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY Actual, Monthly and quarterly trend analysis.
 
@@ -75,7 +73,6 @@ Now I have imported this P&L data into Power BI from Excel for demonstration pur
 - profit_loss_analysis_FY2008_monthly_trends.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_analysis_FY2008_monthly_trends.png)
 - profit_loss_analysis_FY2008_variances.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_analysis_FY2008_variances.png)
 - profit_loss_analysis_FY2008_insights.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_analysis_FY2008_insights.png)
-
 
 
 ---
