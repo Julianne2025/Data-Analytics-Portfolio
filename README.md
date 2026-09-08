@@ -62,7 +62,7 @@ Now I have imported this invoice and chart of accounts tables into Power BI from
 
 This Profit and Loss financial data is for FY2008 for a large battery manufacturing company that later closed.  Fiscal year began on April 1.  It was a publicly traded company.
 
-The original data was exported from the company ERP system to Excel in 2008.  I prepared a KPI management package of financial reports each month after accounting close.  
+The original data was exported from the company ERP system in 2008.  I prepared a KPI management package of financial reports in Excel each month after accounting close.  
 
 Now I have imported this P&L data into Power BI from Excel for demonstration purposes.   Monthly, quarterly, and total trend data for Actual FY2008 is included.  Actual FY2007 Totals are included for YoY variance analysis.  No budget data or COGS detail is available.  Dashboards are published to my Power BI Service account.
 
