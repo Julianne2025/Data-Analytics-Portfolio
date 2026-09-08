@@ -116,9 +116,9 @@ The large weekly consolidated freight invoice and chart of accounts are imported
 
 📁 **Excel Files:** 
 
-***Business Q&A***:  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
+***Business Q&A***:  How much is spent on freight for each carrier for one week?
 
-***Business Problems***:  Lack of timely freight spend analysis.  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes. Data is from one consolidated invoice for one week so no trend data or budget data is available.
+***Business Problems***:  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes that had to be corrected in Excel.
 
 Also, Excel VBA code is used to create an upload template to export journal entries as text to the ERP system instead of repeatedly using the manual copy and paste to a limited row ERP screen.
 
