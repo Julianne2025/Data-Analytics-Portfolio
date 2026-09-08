@@ -169,7 +169,17 @@ freight_je_upload_export_vba_code.png ![freight_je-upload_template](https://gith
 
 📁 **WordPress Files:** 
 
+- WordPress1 | Landing home page of WordPress Website
 
+- WordPress2 | WordPress dashboard
+
+
+---
+
+
+WordPress1.png ![freight_analytics](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/WordPress/WordPress1.png)
+
+WordPress2.png ![freight_analytics](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/WordPress/WordPress2.png)
 
 
 
