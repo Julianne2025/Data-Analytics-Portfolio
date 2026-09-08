@@ -14,7 +14,7 @@ I combine my experience in **accounting and finance** with my skills using **Pow
 
 
 ### 📈 Freight Analysis and Profit & Loss Analysis
-This portfolio shows the freight invoice analysis process used to validate general ledger coding and analyze carrier spend including SQL scripts, Excel ETL processes, and Power BI dashboards demonstrating analytical and reporting skills.  A fiscal year profit and loss statement is included to analyze overall company performance.  Also, Excel VBA code is used to create an upload template to export journal entries as text to the ERP system instead of repeatedly using the manual copy and paste to a limited row ERP screen.
+This portfolio shows the freight invoice analysis process used to validate general ledger coding and analyze carrier spend including SQL scripts, Excel ETL processes, and Power BI dashboards demonstrating analytical and reporting skills.  A fiscal year P&L statement is included to analyze overall company performance.  Also, Excel VBA code is used to create an upload template to export journal entries as text to the ERP system instead of repeatedly using the manual copy and paste to a limited row ERP screen.
 
 
 🧰 Tools Used  |  Skills Used
@@ -38,15 +38,15 @@ This portfolio shows the freight invoice analysis process used to validate gener
 
 ***Freight Spend Analysis***
 
-This freight spend data comes from one large consolidated freight invoice that contained over 3500 freight invoices for the week of May 21, 2010 for a large battery manufacturing company that later closed.  It was a publicly traded company.
+This freight spend data comes from one large consolidated freight invoice that contained over 3500 freight invoices for one week in 2010 for a large manufacturing company that later closed.
 
-I downloaded the original consolidated freight invoice csv file weekly from the website of the freight invoice company that audited the invoices and paid the carriers in 2010.  At that time, I loaded the invoice data into Excel and used VBA macros to correct GL codes before uploading that data into the ERP system.  
+The original consolidated freight invoice csv file was downloaded weekly from the website of a freight invoice company that audited the invoices and paid the carriers.  At that time, I loaded the invoice data into Excel and used VBA macros to correct GL codes before uploading that data into the ERP system.  
 
 Now I have imported this invoice and chart of accounts tables into Power BI from SQL Server for demonstration purposes as fact and COA tables.  DAX measures are included.  Dashboards are published to my Power BI Service account.
 
 ***Business Q&A***:  What is the freight spend analysis?  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
 
-***Business Problems***:  Lack of timely freight spend analysis.  Data is from one consolidated invoice for one week so no trend or budget data is available.
+***Business Problems***:  Lack of timely freight spend analysis.  No trend or budget data is available.
 
 - weekly_freight_analysis_invoice_D2L052110.pbix
 - weekly_freight_cost_overview.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_overview_invoice_D2L052126.png)
@@ -60,7 +60,7 @@ Now I have imported this invoice and chart of accounts tables into Power BI from
 
 ***Profit & Loss Financial Statement Analysis***
 
-This Profit and Loss financial data is for FY2008 for a large battery manufacturing company that later closed.  Fiscal year began on April 1.  It was a publicly traded company.
+This Profit and Loss financial data is for FY2008 for a large manufacturing company that later closed.  Fiscal year began on April 1. 
 
 The original data was exported from the company ERP system in 2008.  I prepared a KPI management package of financial reports in Excel each month after accounting close.  
 
