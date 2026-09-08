@@ -84,12 +84,11 @@ Now I have imported this P&L data into Power BI from Excel for demonstration pur
 
 📁 **SQL Server 2022 Files:**
 
-The large weekly consolidated freight invoice and chart of accounts are imported into SQL Server as tables so that this data can be used for queries for freight analysis.
+The large weekly consolidated freight invoice and chart of accounts are imported into SQL Server as tables so that this data can be used for queries for freight analysis and to verify Excel VBA data.
 
-***Business Q&A***:  I used SQL Server 2022 with SQL Server Management Studio to import and analyze freight data. I wrote T-SQL queries using joins, views, ranking functions, aggregates, and data validation queries, then used the results for Power BI reporting.
+***Business Q&A***:  I used SQL Server 2022 with SSMS to import and analyze freight data. I wrote T-SQL queries using joins, views, ranking functions, aggregates, and data validation queries, then used the results for Power BI reporting.
 
-***Business Problems***:  Lack of timely freight spend analysis.  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes. Data is from one consolidated invoice for one week so no trend data or budget data is available.
-
+***Business Problems***:  Lack of timely freight spend analysis.  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes. 
 
 - freight_analysis1.sql  |  Used SELECT, JOIN  and SUM to get total freight$ by carrier, total freight$ by GL code, and check for invalid GL codes
 
@@ -116,7 +115,7 @@ The large weekly consolidated freight invoice and chart of accounts are imported
 
 📁 **Excel Files:** 
 
-***Business Q&A***:  How much is spent on freight for each carrier for one week?
+***Business Q&A***:  What is the total weekly freight expense by carrier?  Shown by Excel PivotTable.
 
 ***Business Problems***:  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes that had to be corrected in Excel.
 
