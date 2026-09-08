@@ -2,9 +2,8 @@
 Portfolio of data analysis work using **Power BI, SQL Server and Excel** focused on data analysis, dashboards, and business insights.
 
 ### ⚙️ About Me
-I have a background in **accounting and finance** with extensive experience using **Excel**.  
-I use **Power BI and SQL Server** to build strong data analysis, reporting, and visualization.  
-
+I combine my experience in **accounting and finance** with my skills using **Power Bi, SQL Server and Excel** to build strong data analysis, reporting, and visualization.  
+Also, I can publish websites with **WordPress**.
 
 
 ### 📉 Financial Analysis Experience
@@ -42,13 +41,13 @@ This portfolio shows the freight invoice analysis process used to validate gener
 
 This freight spend data comes from one large consolidated freight invoice that contained over 3500 freight invoices for the week of May 21, 2010 for a large battery manufacturing company that later closed.  It was a publicly traded company.
 
-The original consolidated freight invoice csv file was downloaded weekly from the website of the freight invoice company that audited the invoices and paid the carriers in 2010.  At that time, the invoice was loaded into Excel and VBA macros were used to correct GL codes then that data was uploaded into the ERP system.  
+I downloaded the original consolidated freight invoice csv file weekly from the website of the freight invoice company that audited the invoices and paid the carriers in 2010.  At that time, I loaded the invoice data into Excel and used VBA macros to correct GL codes before uploading that data into the ERP system.  
 
-Now this invoice and chart of accounts data are imported into Power BI from SQL Server for demonstration purposes.  Fact and COA tables are used. DAX measures are included.  Dashboards are published to my Power BI Service account.
+Now I have imported this invoice and chart of accounts tables into Power BI from SQL Server for demonstration purposes as fact and COA tables.  DAX measures are included.  Dashboards are published to my Power BI Service account.
 
 ***Business Q&A***:  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
 
-***Business Problems***:  Lack of timely freight spend analysis.  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes. Data is from one consolidated invoice for one week so no trend data or budget data is available.
+***Business Problems***:  Lack of timely freight spend analysis.  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes. Data is from one consolidated invoice for one week so no trend or budget data is available.
 
 - weekly_freight_analysis_invoice_D2L052110.pbix
 - weekly_freight_cost_overview.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_overview_invoice_D2L052126.png)
@@ -64,13 +63,13 @@ Now this invoice and chart of accounts data are imported into Power BI from SQL 
 
 This Profit and Loss financial data is for FY2008 for a large battery manufacturing company that later closed.  Fiscal year began on April 1.  It was a publicly traded company.
 
-The original data was exported from the company ERP system to Excel in 2008.  Financial reports were provided after monthly accounting close.  
+The original data was exported from the company ERP system to Excel in 2008.  I prepared a KPI management package of financial reports each month after accounting close.  
 
-Now this profit and loss data is imported into Power BI from Excel for demonstration purposes.   Monthly, quarterly, and total trend data for Actual FY2008 is included.  Actual FY2007 Totals are included for YoY variance analysis.  No budget data or COGS detail is available.  Dashboards are published to my Power BI Service account.
+Now I have imported this P&L data into Power BI from Excel for demonstration purposes.   Monthly, quarterly, and total trend data for Actual FY2008 is included.  Actual FY2007 Totals are included for YoY variance analysis.  No budget data or COGS detail is available.  Dashboards are published to my Power BI Service account.
 
 ***Business Q&A***:  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY Actual, Monthly and quarterly trend analysis.
 
-***Business Problems***:  Lack of timely performance analysis and tracking.
+***Business Problems***:  Lack of timely performance analysis and tracking.  Lack of awareness of weak cash flow, excess debt, expensive obligations, poor capital allocation, and excessive freight spend.
 
 
 - profit_loss_analysis_FY2008.pbix
@@ -170,6 +169,15 @@ freight_je_upload_file.png ![freight_je-upload_template](https://github.com/Juli
 
 
 freight_je_upload_export_vba_code.png ![freight_je-upload_template](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Excel/freight_je_upload_export_vba_code.png)
+
+
+---
+
+
+📁 **WordPress Files:** 
+
+
+
 
 
 ---
