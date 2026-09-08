@@ -84,7 +84,7 @@ Now I have imported this P&L data into Power BI from Excel for demonstration pur
 
 📁 **SQL Server 2022 Files:**
 
-The large weekly consolidated freight invoice and chart of accounts are imported into SQL Server as tables so that this data can be used for queries for freight analysis and to verify Excel VBA data.
+The large weekly consolidated freight invoice and chart of accounts are imported into SQL Server as tables so that this data can be used for queries for freight analysis and to verify Excel VBA data for GL coding.
 
 ***Business Q&A***:  I used SQL Server 2022 with SSMS to import and analyze freight data. I wrote T-SQL queries using joins, views, ranking functions, aggregates, and data validation queries, then used the results for Power BI reporting.
 
