@@ -44,7 +44,7 @@ I downloaded the original consolidated freight invoice csv file weekly from the 
 
 Now I have imported this invoice and chart of accounts tables into Power BI from SQL Server for demonstration purposes as fact and COA tables.  DAX measures are included.  Dashboards are published to my Power BI Service account.
 
-***Business Q&A***:  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
+***Business Q&A***:  What is the freight spend analysis?  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
 
 ***Business Problems***:  Lack of timely freight spend analysis.  Data is from one consolidated invoice for one week so no trend or budget data is available.
 
@@ -66,7 +66,7 @@ The original data was exported from the company ERP system in 2008.  I prepared 
 
 Now I have imported this P&L data into Power BI from Excel for demonstration purposes.   Monthly, quarterly, and total trend data for Actual FY2008 is included.  Actual FY2007 Totals are included for YoY variance analysis.  No budget data or COGS detail is available.  Dashboards are published to my Power BI Service account.
 
-***Business Q&A***:  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY Actual, Monthly and quarterly trend analysis.
+***Business Q&A***:  What is the P&L analysis?  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY Actual, Monthly and quarterly trend analysis.
 
 ***Business Problems***:  Lack of timely performance analysis and tracking.  Lack of awareness of weak cash flow, excess debt, expensive obligations, poor capital allocation, and excessive freight spend.
 
