@@ -169,6 +169,9 @@ freight_je_upload_export_vba_code.png ![freight_je-upload_template](https://gith
 
 📁 **WordPress Files:** 
 
+Financial dashboards and reports can be published to a WordPress website.
+
+
 - WordPress1 | Landing home page of WordPress Website
 
 - WordPress2 | WordPress dashboard
