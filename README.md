@@ -40,13 +40,16 @@ This portfolio shows the freight invoice analysis process used to validate GL co
 
 This freight spend data comes from one large weekly consolidated freight invoice csv file that contained over 3500 freight invoices.
 
-The invoice data was loaded into Excel and I used VBA macros to correct GL codes before uploading that data into the ERP system.  
+I imported this freight invoice and freight COA table into Power BI from SQL Server as fact and COA tables.  DAX measures are included.
 
-Now I have imported this invoice and COA table into Power BI from SQL Server for demonstration purposes as fact and COA tables.  DAX measures are included.  No trend or budget data is available.
+***Business Problems & Solutions using Power BI for Freight Spend Analysis***:  
 
-What is the freight spend analysis?  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
+1.  The lack of timely freight spend analysis and performance is now provided with Power BI dashboards.  
 
-***Business Problems & Solutions using Power BI for Freight Spend Analysis***:  Lack of timely freight spend analysis that is now provided with Power BI dashboards.  
+2.  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses.
+
+3.  Carrier freight cost per mile, freight cost per pound.
+
 
 - weekly_freight_analysis_invoice_D2L052110.pbix
 - weekly_freight_cost_overview.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_overview_invoice_D2L052126.png)
@@ -62,11 +65,16 @@ What is the freight spend analysis?  Freight KPIs, freight spend by Top 20 carri
 
 This P&L financial data was used to prepare a KPI management package of financial reports in Excel each month after accounting close.  
 
-Now I have imported this P&L data into Power BI from Excel for demonstration purposes.   Monthly, quarterly, and total trend data for Actual FY2008 is included.  Actual FY2007 Totals are included for YoY variance analysis.  No budget data or COGS detail is available. 
+Now I have imported this P&L data into Power BI from Excel. 
 
-What is the P&L analysis?  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY Actual, Monthly and quarterly trend analysis.
+***Business Problems & Solutions using Power BI for P&L Analysis***:  
 
-***Business Problems & Solutions using Power BI for P&L Analysis***:  Lack of timely performance analysis and tracking that is now provided by Power BI dashboards.
+1.  Lack of timely performance analysis and tracking that is now provided by Power BI dashboards.
+
+2.  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY Actual, plus Monthly and quarterly trend analysis.
+
+3.  Monthly, quarterly, and total trend data for Actual FY2008 is included.  Actual FY2007 Totals are included for YoY variance analysis.  
+
 
 - profit_loss_analysis_FY2008.pbix
 - profit_loss_analysis_FY2008_kpis.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_analysis_FY2008_kpis.png)
