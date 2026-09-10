@@ -44,9 +44,9 @@ The invoice data was loaded into Excel and I used VBA macros to correct GL codes
 
 Now I have imported this invoice and COA table into Power BI from SQL Server for demonstration purposes as fact and COA tables.  DAX measures are included.  No trend or budget data is available.
 
-***Business Q&A***:  What is the freight spend analysis?  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
+What is the freight spend analysis?  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
 
-***Business Problems***:  Lack of timely freight spend analysis that is now provided with Power BI dashboards.  
+***Business Problems & Solutions***:  Lack of timely freight spend analysis that is now provided with Power BI dashboards.  
 
 - weekly_freight_analysis_invoice_D2L052110.pbix
 - weekly_freight_cost_overview.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_overview_invoice_D2L052126.png)
@@ -64,9 +64,9 @@ This P&L financial data was used to prepare a KPI management package of financia
 
 Now I have imported this P&L data into Power BI from Excel for demonstration purposes.   Monthly, quarterly, and total trend data for Actual FY2008 is included.  Actual FY2007 Totals are included for YoY variance analysis.  No budget data or COGS detail is available. 
 
-***Business Q&A***:  What is the P&L analysis?  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY Actual, Monthly and quarterly trend analysis.
+What is the P&L analysis?  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY Actual, Monthly and quarterly trend analysis.
 
-***Business Problems***:  Lack of timely performance analysis and tracking that is now provided by Power BI dashboards.
+***Business Problems & Solutions***:  Lack of timely performance analysis and tracking that is now provided by Power BI dashboards.
 
 - profit_loss_analysis_FY2008.pbix
 - profit_loss_analysis_FY2008_kpis.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_analysis_FY2008_kpis.png)
@@ -82,9 +82,9 @@ Now I have imported this P&L data into Power BI from Excel for demonstration pur
 
 The large weekly consolidated freight invoice and chart of accounts are imported into SQL Server as tables so that this data can be used for queries for freight analysis and to verify Excel VBA data for GL coding.
 
-***Business Q&A***:  I used SQL Server 2022 to import and analyze freight data. I wrote T-SQL queries using joins, views, ranking functions, aggregates, and data validation queries, then used the results for Power BI reporting.
+I used SQL Server 2022 to import and analyze freight data. I wrote T-SQL queries using joins, views, ranking functions, aggregates, and data validation queries, then used the results for Power BI reporting.
 
-***Business Problems***:  Lack of timely freight spend analysis.  Also, weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes that needed to be corrected. 
+***Business Problems & Solutions***:  Lack of timely freight spend analysis.  Also, weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes that needed to be corrected. 
 
 - freight_analysis1.sql  |  Used SELECT, JOIN  and SUM to get total freight$ by carrier, total freight$ by GL code, and check for invalid GL codes
 
@@ -111,11 +111,14 @@ The large weekly consolidated freight invoice and chart of accounts are imported
 
 📁 **Excel Files:** 
 
-***Business Q&A***:  What is the total weekly freight expense by carrier?  Freight spend shown by Excel PivotTable.
 
-***Business Problems***:  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes that had to be corrected in Excel by VBA.
+***Business Problems & Solutions***:  
 
-Also, Excel VBA code is used to create an upload template to export journal entries as text to the ERP system instead of repeatedly using the manual copy and paste to a limited row ERP screen.
+1.  Financial Analysis:  Freight spend by carrier is shown by Excel PivotTable.
+
+2.  Data Cleaning, Validation & Automation:  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes that was corrected in Excel by VBA.
+
+3.  Data Automation:  Excel VBA code is used to create an upload template to export journal entries as text to the ERP system instead of repeatedly using manual copy and paste to a limited row ERP screen.
 
 
 - freight_pivot_table.xlsx | Created PivotTable and PivotChart to summarize total weekly freight expense by carrier
