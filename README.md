@@ -80,11 +80,17 @@ What is the P&L analysis?  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY A
 
 📁 **SQL Server 2022 Files:**
 
-The large weekly consolidated freight invoice and chart of accounts are imported into SQL Server as tables so that this data can be used for queries for freight analysis and to verify Excel VBA data for GL coding.
+The large weekly consolidated freight invoice and chart of accounts is imported into SQL Server as tables so that this freight data can be used for queries.
 
-I used SQL Server 2022 to import and analyze freight data. I wrote T-SQL queries using joins, views, ranking functions, aggregates, and data validation queries, then used the results for Power BI reporting.
+***Business Problems & Solutions using SQL Server***: 
 
-***Business Problems & Solutions using SQL Server***:  Lack of timely freight spend analysis.  Also, weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes that needed to be corrected. 
+1.  ***Freight Spend Analysis with SQL queries:***  I wrote SQL queries using joins, views, ranking functions, and aggregates for freight analysis.
+
+2.  ***Data Validation Queries:***  I used SQL queries to correct many wrong GL codes due to moving or closing facilities or missing codes and to verify Excel VBA data for GL coding.
+
+3.  ***Export Views to Power BI:***  Use of Views to import table queries to Power BI to solve the lack of timely freight spend analysis by providing dat for Power BI dashboards.
+
+   
 
 - freight_analysis1.sql  |  Used SELECT, JOIN  and SUM to get total freight$ by carrier, total freight$ by GL code, and check for invalid GL codes
 
@@ -114,11 +120,11 @@ I used SQL Server 2022 to import and analyze freight data. I wrote T-SQL queries
 
 ***Business Problems & Solutions using Excel***:  
 
-1.  *Financial Analysis:*  Freight spend by carrier is shown by Excel PivotTable.
+1.  ***Financial Analysis:***  Freight spend by carrier is shown by Excel PivotTable.
 
-2.  *Data Cleaning, Validation & Automation:*  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes that was corrected in Excel by VBA.
+2.  ***Data Cleaning, Validation & Automation:***  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes that was corrected in Excel by VBA.
 
-3.  *Data Automation:*  Excel VBA code is used to create an upload template to export journal entries as text to the ERP system instead of repeatedly using manual copy and paste to a limited row ERP screen.
+3.  ***Data Automation:***  Excel VBA code is used to create an upload template to export journal entries as text to the ERP system instead of repeatedly using manual copy and paste to a limited row ERP screen.
 
 
 - freight_pivot_table.xlsx | Created PivotTable and PivotChart to summarize total weekly freight expense by carrier
