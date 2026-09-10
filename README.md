@@ -80,7 +80,7 @@ What is the P&L analysis?  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY A
 
 📁 **SQL Server 2022 Files:**
 
-The large weekly consolidated freight invoice and chart of accounts is imported into SQL Server as tables so that this freight data can be used for queries.
+The large weekly consolidated freight invoice and chart of accounts is imported into SQL Server as tables for queries.
 
 ***Business Problems & Solutions using SQL Server***: 
 
@@ -88,7 +88,7 @@ The large weekly consolidated freight invoice and chart of accounts is imported 
 
 2.  ***Data Validation Queries:***  I used SQL queries to correct many wrong GL codes due to moving or closing facilities or missing codes and to verify Excel VBA data for GL coding.
 
-3.  ***Export Views to Power BI:***  Use of Views to import table queries to Power BI to solve the lack of timely freight spend analysis by providing dat for Power BI dashboards.
+3.  ***Export Views to Power BI:***  I used Views to import table queries to Power BI to solve the lack of timely freight spend analysis by providing data for Power BI dashboards.
 
    
 
