@@ -86,7 +86,7 @@ The large weekly consolidated freight invoice and chart of accounts is imported 
 
 1.  ***Freight Spend Analysis with SQL queries:***  I wrote SQL queries using joins, views, ranking functions, and aggregates for freight analysis.
 
-2.  ***Data Validation Queries:***  I used SQL queries to correct many wrong GL codes due to moving or closing facilities or missing codes and to verify Excel VBA data for GL coding.
+2.  ***Data Validation Queries:***  I used SQL queries to find wrong freight GL codes due to moving or closing facilities or missing codes and to verify Excel VBA data for GL coding.
 
 3.  ***Export Views to Power BI:***  I used Views to import table queries to Power BI to solve the lack of timely freight spend analysis by providing data for Power BI dashboards.
 
