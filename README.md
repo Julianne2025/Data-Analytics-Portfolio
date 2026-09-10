@@ -46,7 +46,7 @@ Now I have imported this invoice and COA table into Power BI from SQL Server for
 
 What is the freight spend analysis?  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses, freight cost per mile, freight cost per pound.
 
-***Business Problems & Solutions using Power BI***:  Lack of timely freight spend analysis that is now provided with Power BI dashboards.  
+***Business Problems & Solutions using Power BI for Freight Spend Analysis***:  Lack of timely freight spend analysis that is now provided with Power BI dashboards.  
 
 - weekly_freight_analysis_invoice_D2L052110.pbix
 - weekly_freight_cost_overview.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_overview_invoice_D2L052126.png)
@@ -66,7 +66,7 @@ Now I have imported this P&L data into Power BI from Excel for demonstration pur
 
 What is the P&L analysis?  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY Actual, Monthly and quarterly trend analysis.
 
-***Business Problems & Solutions using Power BI***:  Lack of timely performance analysis and tracking that is now provided by Power BI dashboards.
+***Business Problems & Solutions using Power BI for P&L Analysis***:  Lack of timely performance analysis and tracking that is now provided by Power BI dashboards.
 
 - profit_loss_analysis_FY2008.pbix
 - profit_loss_analysis_FY2008_kpis.png ![freight](https://github.com/Julianne2025/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_analysis_FY2008_kpis.png)
