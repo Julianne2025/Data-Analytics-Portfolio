@@ -2,7 +2,7 @@
 Portfolio of my data analytics work using **Power BI, SQL Server and Excel** focused on data analysis, dashboards, and business insights.
 
 ### ⚙️ About Me - Accounting, Financial & Data Analysis
-I combine my experience in **accounting and finance** with my skills using **Power Bi, SQL Server and Excel** to build strong data analysis, reporting, and visualization.  Also, I can publish to **Power BI Service** or to websites with **WordPress**.
+I combine my experience in **accounting and finance** with my skills using **Power BI, SQL Server and Excel** to build strong data analysis, reporting, and visualization.  I can publish to **Power BI Service** or to websites with **WordPress**.
 
 
 ### 📉 Financial Analysis Experience
