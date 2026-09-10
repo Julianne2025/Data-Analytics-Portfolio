@@ -1,7 +1,7 @@
 ## 📊 Data Analytics Portfolio – Julie Lorenzen -  Financial Analyst
 Portfolio of my data analytics work using **Power BI, SQL Server and Excel** focused on data analysis, dashboards, and business insights.
 
-### ⚙️ About Me
+### ⚙️ About Me - Accounting, Financial & Data Analysis
 I combine my experience in **accounting and finance** with my skills using **Power Bi, SQL Server and Excel** to build strong data analysis, reporting, and visualization.  Also, I can publish to **Power BI Service** or to websites with **WordPress**.
 
 
