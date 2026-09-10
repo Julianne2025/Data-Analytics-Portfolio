@@ -44,11 +44,11 @@ I imported this freight invoice and freight COA table into Power BI from SQL Ser
 
 ***Business Problems & Solutions using Power BI for Freight Spend Analysis***:  
 
-1.  The lack of timely freight spend analysis and performance is now provided with Power BI dashboards.  
+1.  ***Lack of timely freight spend analysis and performance data:*** Now provided with Power BI dashboards.  
 
-2.  Freight KPIs, freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations, Top GL freight expenses.
+2.  ***Freight KPIs:***  Freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations.
 
-3.  Carrier freight cost per mile, freight cost per pound.
+3.  ***Freight Spend Metrics:***  Top freight GL expenses.  Carrier freight cost per mile, freight cost per pound.
 
 
 - weekly_freight_analysis_invoice_D2L052110.pbix
@@ -69,11 +69,11 @@ Now I have imported this P&L data into Power BI from Excel.
 
 ***Business Problems & Solutions using Power BI for P&L Analysis***:  
 
-1.  Lack of timely performance analysis and tracking that is now provided by Power BI dashboards.
+1.  ***Lack of timely performance analysis and tracking:*** Now provided by Power BI dashboards.
 
-2.  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY Actual, plus Monthly and quarterly trend analysis.
+2.  ***KPIs:***  FY2008 KPIs, FY2008 Actual vs Prior Year FY2007 YOY Actual, plus Monthly and quarterly trend analysis.
 
-3.  Monthly, quarterly, and total trend data for Actual FY2008 is included.  Actual FY2007 Totals are included for YoY variance analysis.  
+3.  ***Variance Analysis:***  Monthly, quarterly, and total KPI data for Actual FY2008 is included.  Actual FY2007 Totals are included for YoY variance analysis.  
 
 
 - profit_loss_analysis_FY2008.pbix
