@@ -78,7 +78,7 @@ Now I have imported this P&L data into Power BI from Excel.
 
 2.  ***KPIs:***  FY2008 KPIs provided as dashboard cards.  Monthly and Quarterly trend analysis included in dashboards.
 
-3.  ***Variance Analysis:***  FY2008 Actual vs Prior Year FY2007 (YOY Actual).  Monthly and yearly variances are provided.
+3.  ***Variance Analysis:***  FY2008 Actual vs Prior Year FY2007 (YoY Actual).  Monthly and yearly variances are provided.
 
 
 - profit_loss_analysis_FY2008.pbix
