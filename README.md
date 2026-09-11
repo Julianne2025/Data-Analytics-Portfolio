@@ -43,7 +43,7 @@ Additionally, in using Excel, VBA code is used to create an upload template to e
 
 ***Freight Spend Analysis***
 
-This freight spend data comes from one large weekly consolidated freight invoice csv file that contained over 3500 freight invoices.
+This freight spend data comes from one large weekly consolidated freight invoice file that contained over 3500 freight invoices.
 
 I imported this freight invoice and freight COA table into Power BI from SQL Server as fact and COA tables.  DAX measures are included.
 
