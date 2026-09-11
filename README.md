@@ -76,9 +76,9 @@ Now I have imported this P&L data into Power BI from Excel.
 
 1.  ***Lack of timely performance analysis and tracking:*** Now provided by Power BI dashboards.
 
-2.  ***KPIs:***  FY2008 KPIs, Monthly and Quarterly trend analysis.
+2.  ***KPIs:***  FY2008 KPIs provided as dashboard cards.  Monthly and Quarterly trend analysis included in dashboards.
 
-3.  ***Variance Analysis:***  Monthly and yearly variances are provided.  FY2008 Actual vs Prior Year FY2007 (YOY Actual)
+3.  ***Variance Analysis:***  FY2008 Actual vs Prior Year FY2007 (YOY Actual).  Monthly and yearly variances are provided.
 
 
 - profit_loss_analysis_FY2008.pbix
