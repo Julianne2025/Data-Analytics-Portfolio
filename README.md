@@ -55,7 +55,7 @@ I imported this freight invoice and freight COA table into Power BI from SQL Ser
 
 2.  ***Freight KPIs:***  Freight spend by Top 20 carriers, Top 12 shipping facilities, Top 12 receiving facilities, Top 12 branch locations.
 
-3.  ***Freight Spend Metrics:***  Top freight GL expenses.  Carrier freight cost per mile, freight cost per pound.
+3.  ***Freight Spend Metrics:***  Top freight GL expenses.  Carrier freight cost per mile.  Freight cost per pound.
 
 
 - weekly_freight_analysis_invoice_D2L052110.pbix
