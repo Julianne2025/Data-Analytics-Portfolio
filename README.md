@@ -15,7 +15,7 @@ I combine my experience in **accounting and finance** with my skills using **Pow
 
 ### 📈 Freight Analysis and Profit & Loss Analysis
 
-This portfolio shows the freight invoice analysis process used to validate GL coding and analyze freight spend including Power BI dashboards, SQL scripts, and Excel ETL processes demonstrating analytical and reporting skills.  
+This portfolio shows the freight invoice analysis process that I used to validate GL coding and analyze freight spend including Power BI dashboards, SQL scripts, and Excel ETL processes demonstrating analytical and reporting skills.  
 
 Also, using Power BI, a fiscal year P&L statement is included to analyze overall company performance and provide variance analysis.  
 
