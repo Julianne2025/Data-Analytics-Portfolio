@@ -21,7 +21,7 @@ I combine my experience in **accounting and finance** with my skills using **Pow
 
 3.  Additionally, in using Advanced Excel, VBA code is used for both data validation and data automation.  
 - VBA is used to validate GL coding in a large consolidated freight invoice with incorrect GL codes.
-- VBA is used to create an upload template to export journal entries as text to the ERP system instead of repeatedly using the manual copy and paste.
+- VBA is used to create an upload template to export journal entries as text to the ERP system instead of manual copy and paste.
 
 
 🧰 Tools Used  |  Skills Used
