@@ -15,9 +15,9 @@ I combine my experience in **accounting and finance** with my skills using **Pow
 
 ### 📈 Freight Analysis and Profit & Loss Analysis
 
-1.  This portfolio shows my Power BI freight invoice analysis that I used analyze freight spend demonstrating analytical and reporting skills.  Also, using Power BI, a fiscal year P&L statement is included to analyze overall company performance and provide variance analysis.  
+1.  This portfolio shows my Power BI freight invoice analysis that I used analyze freight spend.  Also, using Power BI, a fiscal year P&L statement is included to report overall company performance and provide variance analysis.  
 
-2.  SQL Server is used to provide data and validate data in the freight analysis process.
+2.  SQL Server is used to provide data analysis and validate data in the freight analysis process.
 
 3.  Additionally, in using Advanced Excel, VBA code is used for both data validation and data automation.  
 - VBA is used to validate GL coding in a large consolidated freight invoice with incorrect GL codes.
