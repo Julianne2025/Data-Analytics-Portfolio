@@ -19,7 +19,7 @@ I combine my experience in **accounting and finance** with my skills using **Pow
 
 2.  SQL Server is used to provide data analysis and validate data in the freight analysis process.
 
-3.  Additionally, in using Advanced Excel, VBA code is used for both data validation and data automation.  
+3.  Additionally, I used Excel VBA code for both data validation and data automation.  
 - VBA is used to validate GL coding in a large consolidated freight invoice with incorrect GL codes.
 - VBA is used to create an upload template to export journal entries as text to the ERP system instead of manual copy and paste.
 
