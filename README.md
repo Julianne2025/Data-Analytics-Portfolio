@@ -41,7 +41,7 @@ I combine my experience in **accounting and finance** with my skills using **Pow
 ---
 
 
-📁 **Power BI Files:**  
+📁 ##Power BI Files:##  
 
 ***Freight Spend Analysis***
 
@@ -93,7 +93,7 @@ Now I have imported this P&L data into Power BI from Excel.
 ---
 
 
-📁 **SQL Server 2022 Files:**
+📁 ##SQL Server 2022 Files:##
 
 I imported the large weekly consolidated freight invoice and chart of accounts into SQL Server as tables for queries.
 
@@ -130,7 +130,7 @@ I imported the large weekly consolidated freight invoice and chart of accounts i
 ---
 
 
-📁 **Excel Files:** 
+📁 ##Excel Files:##
 
 
 ***Business Problems & Solutions using Excel***:  
@@ -191,7 +191,7 @@ freight_je_upload_export_vba_code.png ![freight_je-upload_template](https://gith
 ---
 
 
-📁 **WordPress Files:** 
+📁 ##WordPress Files:##
 
 Financial dashboards and reports can be published to a WordPress website.
 
