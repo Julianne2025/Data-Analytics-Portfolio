@@ -24,14 +24,14 @@ I combine my experience in **accounting and finance** with my skills using **Pow
 - VBA is used to create an upload template to export journal entries as text to the ERP system instead of manual copy and paste.
 
 
-🧰 Tools Used  |  Skills Used
+🧰 **Tools Used  |  Skills Used**
 
 -	Power BI |  Power Query, Data Modeling, DAX Measures, Dashboards
 -	SQL Server 2022  |  SQL Queries of Freight Analytics database
 -	Excel |  PivotTable & PivotChart, PowerPivot, Vlookup Macro, JE Upload Macro Template
 
 
-🔎 Business Objectives and User Friendly Reports
+🔎 **Business Objectives and User Friendly Reports**
 
 -	Applied ETL principles to prepare large datasets for analysis and visualization.
 -	Created interactive Power BI dashboards to track KPIs, highlight trends, and support decision-making.
