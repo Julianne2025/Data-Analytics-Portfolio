@@ -18,3 +18,6 @@ You need tests and controls: row counts, duplicate checks, missing-ID checks, an
 You want the cleaned output to feed Power BI, Fabric, a database, or a downstream reporting process.
 
 Microsoft also now supports Python in Excel, including pandas, so Python analysis can be used within the Excel grid in supported Microsoft 365 environments. That reinforces the direction of travel: Python does not necessarily replace Excel; it increasingly works alongside it.
+
+
+Also, pandas is primarily for data rather than workbook formatting. For detailed Excel styling, formulas, or cell-level manipulation, Python commonly uses companion libraries such as openpyxl or xlsxwriter; pandas can write Excel output using those engines.
