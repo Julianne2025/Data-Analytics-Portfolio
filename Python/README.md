@@ -1,1 +1,1 @@
-
+I used Excel VBA extensively to automate recurring file consolidation, data cleanup, reporting, and validation. I am extending that automation skill into Python and pandas for scalable, repeatable data preparation and reconciliation workflows that can feed Power BI and modern data platforms.
