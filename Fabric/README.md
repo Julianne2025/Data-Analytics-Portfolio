@@ -7,6 +7,10 @@ Familiar with Microsoft Fabric and Azure Synapse analytics concepts, including L
 
 Use a Fabric Warehouse or Lakehouse as a curated finance-data source; build the Power BI semantic model, DAX measures, security, and executive financial reports; validate the results to the GL and budget.
 
+“I translate finance and operational data into reliable, modeled Power BI reporting, and I understand the SQL Server, Azure, and Fabric data layers that support it.”
+
+
+
 
 
 
