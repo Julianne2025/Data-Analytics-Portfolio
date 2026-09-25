@@ -5,6 +5,10 @@ Microsoft Fabric: Lakehouse/Warehouse fundamentals, OneLake, SQL analytics, Data
 
 Familiar with Microsoft Fabric and Azure Synapse analytics concepts, including Lakehouse/Data Warehouse patterns, SQL-based data transformation, data pipelines, semantic modeling, and Power BI reporting.
 
+Use a Fabric Warehouse or Lakehouse as a curated finance-data source; build the Power BI semantic model, DAX measures, security, and executive financial reports; validate the results to the GL and budget.
+
+
+
 
 
 
